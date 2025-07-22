@@ -1,4 +1,4 @@
-#ARAHAN/INSTRUCTION :  
+# ARAHAN/INSTRUCTION :  
 
 a)	Before you start the exercise, please go to your Desktop, and create a folder name it as ”Python Exercise”. 
 b)	Move into the folder Python Exercise, and create another folder called ”Chapter 2”.
