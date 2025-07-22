@@ -27,29 +27,55 @@ Hello Nadzir, your ID is NWS 000555.
 SOALAN/QUESTION : 
 
 Question 1 : What is the command to create a folder, and a file in linux?
+##To Create folder ,file name
+```bash
+    mkdir <foldername>
+    touch <filename>
+```
 ___________________________________________________________________
 
 Question 2 : What is the different between interactive and script in python?
 
+```bash
+    interactive is directly onto terminal, while script is creating a file and then running it
+```
 
 ___________________________________________________________________
 
 Question 3 : What is a variable?
 
+```bash
+    variable is an element where it can store and change value
+```
+
 ___________________________________________________________________
 
 Question 4 : What does it mean by reserved words in python?
-
+```bash
+    words that cannot be used in the script but for its own purpose only
+```
 
 
 
 
 Question 5 : How to add comment in python?
+```bash
+    single line comment  : #
+    usage :
+    #this is a comment
+
+    multi line comment
+
+    '''
+```
 
 
 
 Question 6 : The operator precedence starts from the highest precedence rules, what is the operator precedence?
-
+```bash
+    The operator that will be executed first. Example is 'func()'
+    The parenthesis is an operator, and that will be executed first.
+```
 
 
 
