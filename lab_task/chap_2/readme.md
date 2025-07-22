@@ -6,6 +6,8 @@ c)	Move into the folder Chapter 2, and create 3 separate files, name it as ”Ta
 
 After completed the task above, continue with the following task, write all python coding in the files that you created before (Task1, Task2, Task3).
 
+## Tasks
+
 1)	Write a program to prompt the user for their name, ID, and Semester, and then welcome them.
 Output example : 
 	Enter your name : Nadzir
@@ -24,10 +26,10 @@ Hello Nadzir, your ID is NWS 000555.
 	How much do you weigh? 98
 	You are 53 years old, 175 height, and 98 kilogram.
 
-SOALAN/QUESTION : 
+## SOALAN/QUESTION : 
 
 Question 1 : What is the command to create a folder, and a file in linux?
-##To Create folder ,file name
+
 ```bash
     mkdir <foldername>
     touch <filename>
