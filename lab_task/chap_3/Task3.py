@@ -3,8 +3,10 @@
 
 #grade list
 
+grade_min = 0
 grade_repeat = 2
 grade_dean = 3.5
+grade_max =4.0
  
 #error handling
 
@@ -20,8 +22,11 @@ try:
     elif student_grade >= grade_repeat and student_grade < grade_dean:
         print("You passed")
 
+    elif student_grade >= grade_dean and student_grade <= grade_max:
+        print("Dean's List! Congratx!")
+
     else:
-        print("Dean's List! Congrats!")
+        print("Grade must be more than 0 and less than 4!")
 
 except:
     print("\nInput error!")
