@@ -1,18 +1,29 @@
-#Task 2
-#Program to prompt user for hours and rate per hour to compute
-#gross pay
-
-#Formula is pay = hours * rate
+#Task3 chap_3
 
 
-#User Input
-employee_hours = float(input("\nEnter hours:"))
-employee_rate = float(input("Enter rate:"))
+#grade list
 
-#calculating the gross pay
-employee_gross_pay = employee_hours * employee_rate
+grade_repeat = 2
+grade_dean = 3.5
+ 
+#error handling
 
-#printing
-print("Your Pay is :"+ str(employee_gross_pay))
 
+
+try:
+    student_name = str(input("Please enter your name:"))
+    student_grade = float(input("\nPlease enter your CGPA:"))
+
+    if student_grade < grade_repeat:
+        print("You failed! Repeat!")
+        
+    elif student_grade >= grade_repeat and student_grade < grade_dean:
+        print("You passed")
+
+    else:
+        print("Dean's List! Congrats!")
+
+except:
+    print("\nInput error!")
+        
 
