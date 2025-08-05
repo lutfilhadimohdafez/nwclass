@@ -9,7 +9,7 @@ b)	Move into the folder Chapter 4, and create 3 separate files, name it as ”Ta
 
 2)Get input from user, and print the name and age. Create function to get the values and display the values.
 
-3)	Create function :- 
+3)Create function :- 
 Add()
 Minus()
 Multiply()
