@@ -28,12 +28,36 @@ while file_error_int < 3:
 if file_error_int ==3:
     print("Too many wrong filename. Exiting..")
     exit()
+# Defining functions
+def maleList():
+    print("List of Male Students")
+    male_Lines = fileHandler.readlines()
+    print(male_Lines)
+    #for lines in male_Lines:
+     #   print(lines)
 
+# Looping for menu
 menu_options = 'y'
 while menu_options == 'y':
     print("Data Extractor")
     print("1. List of Male Students")
     print("2. List of Female Students")
-    print("3. Total number of students in the list and total number of TTO in the list")
+    print("3. Total number of students and TTO in the list")
     print("4. List of students email address")
+    print("5. Exit")
     menu_choice = int(input("Please enter choice:"))
+    if menu_choice == 1:
+        print("1")
+        maleList()
+    elif menu_choice == 2:
+        print("2")
+    elif menu_choice == 3:
+        print("3")
+    elif menu_choice == 4:
+        print("4")
+    elif menu_choice == 5:
+        print("exit")
+    else:
+        print("wrong input")
+
+
