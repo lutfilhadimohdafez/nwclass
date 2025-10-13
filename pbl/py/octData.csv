@@ -1,0 +1,1501 @@
+name,id,email,gender,birthdate,role
+Anita a/p Rangasamy,S2025779400,anita.rangasamy@student.gmi.edu.my,Female,2001-07-10,student
+Haris bin Razali,S2025264905,haris.razali@student.gmi.edu.my,Male,2005-05-27,student
+Kavita a/p Balakrishnan,S2025651004,kavita.balakrishnan@student.gmi.edu.my,Female,2000-11-04,student
+Taufiq bin Shah,S2025560051,taufiq.shah@student.gmi.edu.my,Male,2007-08-08,student
+Jia Hao a/l Yap,S2025059895,jia.hao.yap@student.gmi.edu.my,Male,2005-12-16,student
+Rafiq bin Yaacob,S2025430287,rafiq.yaacob@student.gmi.edu.my,Male,2007-01-11,student
+Latifah binti Halimi,S2025260223,latifah.halimi@student.gmi.edu.my,Female,2000-11-05,student
+Izzah binti Zain,S2025328325,izzah.zain@student.gmi.edu.my,Female,2002-07-07,student
+Nalini a/p Balakrishnan,T2025066643,nalini.balakrishnan@tto.gmi.edu.my,Female,1990-08-18,TTO
+Latifah binti Omar,S2025423468,latifah.omar@student.gmi.edu.my,Female,2006-03-26,student
+Talha bin Sharif,T2025204415,talha.sharif@tto.gmi.edu.my,Male,1982-03-14,TTO
+Jia Yi a/p Goh,S2025310109,jia.yi.goh@student.gmi.edu.my,Female,2005-04-19,student
+Ai Ling a/p Koh,S2025776728,ai.ling.koh@student.gmi.edu.my,Female,2007-07-31,student
+Danish bin Sulaiman,S2025537673,danish.sulaiman@student.gmi.edu.my,Male,2006-07-13,student
+Mani a/l Balakrishnan,S2025860047,mani.balakrishnan@student.gmi.edu.my,Male,2005-08-13,student
+Yee Ling a/p Tan,S2025195173,yee.ling.tan@student.gmi.edu.my,Female,2005-04-19,student
+Jia Hao a/l Koh,S2025038254,jia.hao.koh@student.gmi.edu.my,Male,2003-09-07,student
+Suresh a/l Murugan,S2025596953,suresh.murugan@student.gmi.edu.my,Male,2005-05-17,student
+Latifah binti Yahya,S2025522836,latifah.yahya@student.gmi.edu.my,Female,2000-12-23,student
+Iqbal bin Azman,F2025346265,iqbal.azman@staff.gmi.edu.my,Male,1991-04-26,staff
+Yu Xuan a/l Lee,T2025746695,yu.xuan.lee@tto.gmi.edu.my,Male,1985-02-18,TTO
+Yusuf bin Ahmad,S2025240266,yusuf.ahmad@student.gmi.edu.my,Male,2004-05-26,student
+Han Bin a/l Wong,S2025149760,han.wong@student.gmi.edu.my,Male,2007-03-06,student
+Liang a/l Chia,S2025847527,liang.chia@student.gmi.edu.my,Male,2005-04-05,student
+Zhi Yang a/l Liew,S2025100941,zhi.yang.liew@student.gmi.edu.my,Male,2003-06-25,student
+Nalini a/p Gopal,S2025387970,nalini.gopal@student.gmi.edu.my,Female,2007-07-23,student
+Vijay a/l Balakrishnan,S2025000036,vijay.balakrishnan@student.gmi.edu.my,Male,2000-02-15,student
+Yu Xuan a/l Chen,S2025546732,yu.xuan.chen@student.gmi.edu.my,Male,2003-11-01,student
+Xue Ting a/p Chia,S2025805002,xue.ting.chia@student.gmi.edu.my,Female,2002-07-28,student
+Kai Wen a/l Ng,S2025945288,kai.wen.ng@student.gmi.edu.my,Male,2006-12-01,student
+Arif bin Sharif,S2025420420,arif.sharif@student.gmi.edu.my,Male,2003-12-13,student
+Han Bin a/l Chai,S2025155415,han.chai@student.gmi.edu.my,Male,2002-11-21,student
+Azlan bin Jamil,T2025557801,azlan.jamil@tto.gmi.edu.my,Male,1977-03-06,TTO
+Saravanan a/l Perumal,S2025315852,saravanan.perumal@student.gmi.edu.my,Male,2001-03-08,student
+Khai Ming a/l Wong,S2025858009,khai.ming.wong@student.gmi.edu.my,Male,2001-07-10,student
+Priya a/p Balakrishnan,S2025271528,priya.balakrishnan@student.gmi.edu.my,Female,2005-09-17,student
+Mariam binti Zawawi,S2025800374,mariam.zawawi@student.gmi.edu.my,Female,2006-08-10,student
+Anita a/p Balakrishnan,T2025745440,anita.balakrishnan@tto.gmi.edu.my,Female,1989-05-29,TTO
+Zi Ying a/p Lee,S2025015033,zi.ying.lee@student.gmi.edu.my,Female,2006-09-28,student
+Raja a/l Muthu,S2025361107,raja.muthu@student.gmi.edu.my,Male,2002-07-25,student
+Deepa a/p Murugan,S2025781554,deepa.murugan@student.gmi.edu.my,Female,2007-02-23,student
+Shalini a/p Raman,S2025522713,shalini.raman@student.gmi.edu.my,Female,2002-03-20,student
+Yan Yi a/p Lee,S2025997213,yan.yi.lee@student.gmi.edu.my,Female,2000-01-04,student
+Wei Han a/l Teh,S2025314639,wei.han.teh@student.gmi.edu.my,Male,2002-09-10,student
+Priya a/p Raman,S2025054096,priya.raman@student.gmi.edu.my,Female,2006-07-08,student
+Zi Hao a/l Liew,S2025605389,zi.hao.liew@student.gmi.edu.my,Male,2003-10-21,student
+Luqman bin Azman,T2025999705,luqman.azman@tto.gmi.edu.my,Male,1984-08-22,TTO
+Azlan bin Yaacob,S2025761264,azlan.yaacob@student.gmi.edu.my,Male,2000-07-08,student
+Wei Jian a/l Yap,S2025271329,wei.jian.yap@student.gmi.edu.my,Male,2005-01-06,student
+Nadhirah binti Halimi,S2025259950,nadhirah.halimi@student.gmi.edu.my,Female,2004-09-17,student
+Deepa a/p Muthu,S2025995488,deepa.muthu@student.gmi.edu.my,Female,2003-10-10,student
+Farhan bin Hashim,S2025711377,farhan.hashim@student.gmi.edu.my,Male,2006-10-30,student
+Saravanan a/l Raman,T2025566714,saravanan.raman@tto.gmi.edu.my,Male,1980-01-07,TTO
+Mani a/l Subramaniam,S2025463031,mani.subramaniam@student.gmi.edu.my,Male,2003-12-01,student
+Nisa binti Nawawi,S2025469970,nisa.nawawi@student.gmi.edu.my,Female,2002-04-11,student
+Yan Yi a/p Teh,T2025514551,yan.yi.teh@tto.gmi.edu.my,Female,1982-10-27,TTO
+Karthik a/l Perumal,S2025391167,karthik.perumal@student.gmi.edu.my,Male,2001-07-23,student
+Mani a/l Perumal,S2025909927,mani.perumal@student.gmi.edu.my,Male,2004-09-08,student
+Qin Yi a/p Chai,S2025895256,qin.yi.chai@student.gmi.edu.my,Female,2003-05-15,student
+Mei Ling a/p Teh,S2025301774,mei.ling.teh@student.gmi.edu.my,Female,2001-12-14,student
+Wei Jian a/l Chai,S2025705836,wei.jian.chai@student.gmi.edu.my,Male,2004-10-19,student
+Hao a/l Koh,S2025409767,hao.koh@student.gmi.edu.my,Male,2001-12-22,student
+Kai Wen a/l Yeo,S2025056140,kai.wen.yeo@student.gmi.edu.my,Male,2002-08-06,student
+Karthik a/l Murugan,S2025717863,karthik.murugan@student.gmi.edu.my,Male,2006-02-03,student
+Faris bin Othman,S2025515914,faris.othman@student.gmi.edu.my,Male,2003-07-18,student
+Suresh a/l Subramaniam,S2025271681,suresh.subramaniam@student.gmi.edu.my,Male,2007-09-09,student
+Kavita a/p Muthu,S2025126578,kavita.muthu@student.gmi.edu.my,Female,2001-02-03,student
+Mariam binti Shukri,T2025689157,mariam.shukri@tto.gmi.edu.my,Female,1979-04-24,TTO
+Zafran bin Sani,S2025747174,zafran.sani@student.gmi.edu.my,Male,2002-06-02,student
+Qistina binti Aziz,S2025384828,qistina.aziz@student.gmi.edu.my,Female,2000-04-15,student
+Jia Yi a/p Lim,S2025556727,jia.yi.lim@student.gmi.edu.my,Female,2002-03-06,student
+Lakshmi a/p Venkatesh,S2025198501,lakshmi.venkatesh@student.gmi.edu.my,Female,2007-01-05,student
+Pei Wen a/p Teh,S2025090680,pei.wen.teh@student.gmi.edu.my,Female,2005-12-19,student
+Priya a/p Balakrishnan,S2025001677,priya.balakrishnan2@student.gmi.edu.my,Female,2006-12-02,student
+Priya a/p Balakrishnan,S2025193648,priya.balakrishnan3@student.gmi.edu.my,Female,2001-07-22,student
+Xin Yi a/p Lim,S2025194230,xin.yi.lim@student.gmi.edu.my,Female,2004-06-22,student
+Pei Wen a/p Chin,S2025639080,pei.wen.chin@student.gmi.edu.my,Female,2005-01-20,student
+Sabrina binti Ridzuan,S2025123577,sabrina.ridzuan@student.gmi.edu.my,Female,2002-12-03,student
+Murali a/l Raman,S2025896385,murali.raman@student.gmi.edu.my,Male,2005-07-12,student
+Fatin binti Sharif,S2025122986,fatin.sharif@student.gmi.edu.my,Female,2004-05-03,student
+Suresh a/l Gopal,F2025070620,suresh.gopal@staff.gmi.edu.my,Male,1970-01-03,staff
+Faiz bin Nasir,S2025624773,faiz.nasir@student.gmi.edu.my,Male,2003-06-21,student
+Kavita a/p Muthu,S2025663352,kavita.muthu2@student.gmi.edu.my,Female,2006-01-11,student
+Zi Hao a/l Lee,S2025474251,zi.hao.lee@student.gmi.edu.my,Male,2004-10-23,student
+Azlan bin Salim,S2025000829,azlan.salim@student.gmi.edu.my,Male,2005-06-06,student
+Balqis binti Othman,S2025183346,balqis.othman@student.gmi.edu.my,Female,2004-06-03,student
+Kai Wen a/l Lim,F2025229274,kai.wen.lim@staff.gmi.edu.my,Male,1984-06-24,staff
+Prakash a/l Perumal,F2025914592,prakash.perumal@staff.gmi.edu.my,Male,1982-06-22,staff
+Suresh a/l Gopal,S2025352156,suresh.gopal@student.gmi.edu.my,Male,2000-09-05,student
+Jia Hao a/l Low,S2025007676,jia.hao.low@student.gmi.edu.my,Male,2007-09-27,student
+Ai Ling a/p Phang,S2025478634,ai.ling.phang@student.gmi.edu.my,Female,2002-01-13,student
+Azlan bin Nawawi,S2025844138,azlan.nawawi@student.gmi.edu.my,Male,2003-01-07,student
+Arun a/l Rangasamy,S2025198874,arun.rangasamy@student.gmi.edu.my,Male,2004-05-23,student
+Yee Ling a/p Ng,T2025260376,yee.ling.ng@tto.gmi.edu.my,Female,1981-10-11,TTO
+Arissa binti Salim,S2025974641,arissa.salim@student.gmi.edu.my,Female,2006-10-20,student
+Anand a/l Balakrishnan,S2025626198,anand.balakrishnan@student.gmi.edu.my,Male,2007-02-17,student
+Hasif bin Mansor,S2025299895,hasif.mansor@student.gmi.edu.my,Male,2003-05-21,student
+Hao a/l Lee,T2025725340,hao.lee@tto.gmi.edu.my,Male,1978-01-15,TTO
+Lakshmi a/p Subramaniam,S2025576246,lakshmi.subramaniam@student.gmi.edu.my,Female,2007-08-28,student
+Zhi Yang a/l Pang,S2025135118,zhi.yang.pang@student.gmi.edu.my,Male,2000-02-27,student
+Liang a/l Chin,S2025412982,liang.chin@student.gmi.edu.my,Male,2000-04-19,student
+Saravanan a/l Venkatesh,S2025198079,saravanan.venkatesh@student.gmi.edu.my,Male,2004-05-12,student
+Safwan bin Osman,S2025432547,safwan.osman@student.gmi.edu.my,Male,2005-11-30,student
+Zikri bin Nawawi,T2025006125,zikri.nawawi@tto.gmi.edu.my,Male,1993-10-22,TTO
+Khai Ming a/l Goh,S2025412685,khai.ming.goh@student.gmi.edu.my,Male,2006-09-26,student
+Kavita a/p Gopal,S2025837136,kavita.gopal@student.gmi.edu.my,Female,2005-08-29,student
+Alya binti Ibrahim,S2025191306,alya.ibrahim@student.gmi.edu.my,Female,2007-05-03,student
+Prakash a/l Gopal,S2025951746,prakash.gopal@student.gmi.edu.my,Male,2003-07-22,student
+Wei Han a/l Chong,S2025226765,wei.han.chong@student.gmi.edu.my,Male,2005-02-12,student
+Mani a/l Raman,T2025098816,mani.raman@tto.gmi.edu.my,Male,1984-08-15,TTO
+Ming Jie a/l Goh,S2025452733,ming.jie.goh@student.gmi.edu.my,Male,2007-03-16,student
+Kavita a/p Subramaniam,S2025158209,kavita.subramaniam@student.gmi.edu.my,Female,2007-09-23,student
+Safwan bin Salleh,S2025819322,safwan.salleh@student.gmi.edu.my,Male,2007-07-25,student
+Sabrina binti Halim,S2025275119,sabrina.halim@student.gmi.edu.my,Female,2007-06-20,student
+Mani a/l Subramaniam,S2025258067,mani.subramaniam2@student.gmi.edu.my,Male,2004-06-17,student
+Khai Ming a/l Pang,S2025151351,khai.ming.pang@student.gmi.edu.my,Male,2005-03-18,student
+Zafran bin Sulaiman,S2025986419,zafran.sulaiman@student.gmi.edu.my,Male,2004-12-08,student
+Khai Ming a/l Liew,T2025373636,khai.ming.liew@tto.gmi.edu.my,Male,1983-05-06,TTO
+Dina binti Ali,S2025339261,dina.ali@student.gmi.edu.my,Female,2003-09-08,student
+Karthik a/l Rangasamy,S2025243369,karthik.rangasamy@student.gmi.edu.my,Male,2003-11-02,student
+Fatin binti Omar,S2025116413,fatin.omar@student.gmi.edu.my,Female,2004-04-17,student
+Priya a/p Raman,S2025069035,priya.raman2@student.gmi.edu.my,Female,2000-10-28,student
+Han Bin a/l Chin,T2025794796,han.chin@tto.gmi.edu.my,Male,1988-09-22,TTO
+Syazana binti Hashim,S2025542705,syazana.hashim@student.gmi.edu.my,Female,2001-09-22,student
+Ahmad bin Rahman,T2025503789,ahmad.rahman@tto.gmi.edu.my,Male,1981-01-08,TTO
+Elena binti Zain,S2025905607,elena.zain@student.gmi.edu.my,Female,2005-04-11,student
+Han Bin a/l Chai,S2025056043,han.chai2@student.gmi.edu.my,Male,2000-10-29,student
+Rafiq bin Rahim,S2025911582,rafiq.rahim@student.gmi.edu.my,Male,2005-01-02,student
+Zulaikha binti Fauzi,S2025867949,zulaikha.fauzi@student.gmi.edu.my,Female,2004-04-27,student
+Rania binti Sulaiman,S2025740818,rania.sulaiman@student.gmi.edu.my,Female,2004-03-11,student
+Zhi Yang a/l Chong,S2025441166,zhi.yang.chong@student.gmi.edu.my,Male,2002-12-21,student
+Khadijah binti Rahim,S2025945215,khadijah.rahim@student.gmi.edu.my,Female,2003-06-24,student
+Kavita a/p Venkatesh,S2025894327,kavita.venkatesh@student.gmi.edu.my,Female,2001-07-08,student
+Jia Hao a/l Tee,S2025329790,jia.hao.tee@student.gmi.edu.my,Male,2000-09-18,student
+Shalini a/p Raman,S2025987953,shalini.raman2@student.gmi.edu.my,Female,2006-01-14,student
+Yan Yi a/p Ng,S2025155701,yan.yi.ng@student.gmi.edu.my,Female,2000-05-27,student
+Mani a/l Murugan,T2025875856,mani.murugan@tto.gmi.edu.my,Male,1982-04-09,TTO
+Hao a/l Chai,S2025368725,hao.chai@student.gmi.edu.my,Male,2000-10-24,student
+Alya binti Zawawi,S2025937704,alya.zawawi@student.gmi.edu.my,Female,2002-12-11,student
+Kai Wen a/l Teh,S2025123060,kai.wen.teh@student.gmi.edu.my,Male,2005-02-05,student
+Anusha a/p Krishnan,S2025414470,anusha.krishnan@student.gmi.edu.my,Female,2002-05-20,student
+Azlan bin Majid,T2025171651,azlan.majid@tto.gmi.edu.my,Male,1986-01-01,TTO
+Azlan bin Ridzuan,S2025541972,azlan.ridzuan@student.gmi.edu.my,Male,2000-02-05,student
+Murali a/l Krishnan,F2025802484,murali.krishnan@staff.gmi.edu.my,Male,1998-10-25,staff
+Faris bin Kassim,S2025867113,faris.kassim@student.gmi.edu.my,Male,2003-07-14,student
+Kumar a/l Krishnan,S2025180637,kumar.krishnan@student.gmi.edu.my,Male,2007-09-21,student
+Zhi Yang a/l Liew,S2025204677,zhi.yang.liew2@student.gmi.edu.my,Male,2000-05-07,student
+Vijay a/l Muthu,S2025868335,vijay.muthu@student.gmi.edu.my,Male,2004-01-17,student
+Kumar a/l Muthu,S2025030416,kumar.muthu@student.gmi.edu.my,Male,2004-09-19,student
+Zi Hao a/l Koh,S2025503208,zi.hao.koh@student.gmi.edu.my,Male,2000-04-13,student
+Hao a/l Tan,S2025108551,hao.tan@student.gmi.edu.my,Male,2005-03-10,student
+Nadia binti Zawawi,S2025197076,nadia.zawawi@student.gmi.edu.my,Female,2003-11-23,student
+Raja a/l Krishnan,S2025236473,raja.krishnan@student.gmi.edu.my,Male,2005-11-01,student
+Murali a/l Rangasamy,S2025494257,murali.rangasamy@student.gmi.edu.my,Male,2006-12-16,student
+Murali a/l Muthu,S2025858738,murali.muthu@student.gmi.edu.my,Male,2006-05-15,student
+Deepa a/p Subramaniam,S2025435275,deepa.subramaniam@student.gmi.edu.my,Female,2003-11-15,student
+Nalini a/p Subramaniam,S2025003913,nalini.subramaniam@student.gmi.edu.my,Female,2001-04-06,student
+Syazana binti Sulaiman,S2025764869,syazana.sulaiman@student.gmi.edu.my,Female,2001-12-31,student
+Meera a/p Balakrishnan,F2025686802,meera.balakrishnan@staff.gmi.edu.my,Female,1983-06-15,staff
+Luqman bin Othman,S2025204053,luqman.othman@student.gmi.edu.my,Male,2007-04-22,student
+Nurin binti Zain,S2025576699,nurin.zain@student.gmi.edu.my,Female,2006-10-02,student
+Kumar a/l Venkatesh,T2025861145,kumar.venkatesh@tto.gmi.edu.my,Male,1994-05-15,TTO
+Qin Yi a/p Chin,S2025518740,qin.yi.chin@student.gmi.edu.my,Female,2003-03-14,student
+Yan Yi a/p Phang,S2025709673,yan.yi.phang@student.gmi.edu.my,Female,2003-10-23,student
+Deepa a/p Subramaniam,T2025841620,deepa.subramaniam@tto.gmi.edu.my,Female,1980-09-10,TTO
+Lina binti Jamal,S2025885735,lina.jamal@student.gmi.edu.my,Female,2004-07-04,student
+Izzah binti Ridzuan,S2025435772,izzah.ridzuan@student.gmi.edu.my,Female,2002-08-02,student
+Karthik a/l Perumal,F2025384995,karthik.perumal@staff.gmi.edu.my,Male,1981-06-03,staff
+Hui Xin a/p Chia,S2025203769,hui.xin.chia@student.gmi.edu.my,Female,2001-07-17,student
+Saravanan a/l Perumal,S2025652706,saravanan.perumal2@student.gmi.edu.my,Male,2005-03-29,student
+Hao a/l Ng,S2025465377,hao.ng@student.gmi.edu.my,Male,2006-04-01,student
+Sarimah binti Othman,S2025629282,sarimah.othman@student.gmi.edu.my,Female,2004-08-07,student
+Nalini a/p Perumal,F2025549794,nalini.perumal@staff.gmi.edu.my,Female,1989-08-17,staff
+Putri binti Aziz,F2025073269,putri.aziz@staff.gmi.edu.my,Female,1982-03-02,staff
+Liang a/l Chia,S2025023630,liang.chia2@student.gmi.edu.my,Male,2002-09-01,student
+Vijay a/l Venkatesh,S2025606106,vijay.venkatesh@student.gmi.edu.my,Male,2002-10-05,student
+Yan Yi a/p Liew,S2025196019,yan.yi.liew@student.gmi.edu.my,Female,2005-11-01,student
+Haris bin Salim,T2025914094,haris.salim@tto.gmi.edu.my,Male,1992-10-10,TTO
+Hui Xin a/p Wong,S2025445655,hui.xin.wong@student.gmi.edu.my,Female,2000-01-07,student
+Arissa binti Jamal,S2025208028,arissa.jamal@student.gmi.edu.my,Female,2003-07-12,student
+Jun Wei a/l Pang,S2025621440,jun.wei.pang@student.gmi.edu.my,Male,2005-07-23,student
+Hana binti Salleh,S2025583102,hana.salleh@student.gmi.edu.my,Female,2002-01-18,student
+Haikal bin Nawawi,T2025090317,haikal.nawawi@tto.gmi.edu.my,Male,1993-04-23,TTO
+Arun a/l Rangasamy,S2025155506,arun.rangasamy2@student.gmi.edu.my,Male,2000-11-11,student
+Lakshmi a/p Perumal,S2025740431,lakshmi.perumal@student.gmi.edu.my,Female,2003-03-03,student
+Xin Yi a/p Yap,S2025106689,xin.yi.yap@student.gmi.edu.my,Female,2002-03-30,student
+Zi Hao a/l Pang,T2025845342,zi.hao.pang@tto.gmi.edu.my,Male,1987-09-26,TTO
+Thaqif bin Yahya,S2025370313,thaqif.yahya@student.gmi.edu.my,Male,2002-08-16,student
+Zi Ying a/p Ng,S2025244392,zi.ying.ng@student.gmi.edu.my,Female,2003-04-14,student
+Xin Yi a/p Tan,S2025260808,xin.yi.tan@student.gmi.edu.my,Female,2003-01-02,student
+Zi Hao a/l Lee,F2025705063,zi.hao.lee@staff.gmi.edu.my,Male,1998-03-01,staff
+Zi Hao a/l Lee,S2025481362,zi.hao.lee2@student.gmi.edu.my,Male,2002-04-24,student
+Meera a/p Krishnan,T2025665400,meera.krishnan@tto.gmi.edu.my,Female,1995-07-20,TTO
+Kumar a/l Rangasamy,S2025830321,kumar.rangasamy@student.gmi.edu.my,Male,2001-01-12,student
+Hafiz bin Shah,S2025221271,hafiz.shah@student.gmi.edu.my,Male,2006-08-31,student
+Jia Hao a/l Chai,F2025342669,jia.hao.chai@staff.gmi.edu.my,Male,1997-10-22,staff
+Yu Xuan a/l Teh,S2025476854,yu.xuan.teh@student.gmi.edu.my,Male,2003-09-05,student
+Karthik a/l Raman,T2025188293,karthik.raman@tto.gmi.edu.my,Male,1987-10-29,TTO
+Kavita a/p Muthu,T2025698530,kavita.muthu@tto.gmi.edu.my,Female,1994-12-06,TTO
+Meera a/p Muthu,F2025248356,meera.muthu@staff.gmi.edu.my,Female,1976-09-26,staff
+Xue Ting a/p Pang,S2025973440,xue.ting.pang@student.gmi.edu.my,Female,2006-02-15,student
+Deepa a/p Murugan,S2025047945,deepa.murugan2@student.gmi.edu.my,Female,2004-08-19,student
+Deepa a/p Gopal,S2025260736,deepa.gopal@student.gmi.edu.my,Female,2006-04-15,student
+Amir bin Sulaiman,S2025474655,amir.sulaiman@student.gmi.edu.my,Male,2001-02-28,student
+Kai Wen a/l Yeo,S2025071317,kai.wen.yeo2@student.gmi.edu.my,Male,2007-04-25,student
+Faris bin Hashim,S2025626212,faris.hashim@student.gmi.edu.my,Male,2004-12-27,student
+Yan Yi a/p Chai,S2025409574,yan.yi.chai@student.gmi.edu.my,Female,2003-09-27,student
+Anusha a/p Venkatesh,S2025327450,anusha.venkatesh@student.gmi.edu.my,Female,2004-12-18,student
+Azlan bin Shukri,S2025719195,azlan.shukri@student.gmi.edu.my,Male,2003-03-10,student
+Priya a/p Rangasamy,S2025609557,priya.rangasamy@student.gmi.edu.my,Female,2007-01-07,student
+Ahmad bin Sharif,S2025644848,ahmad.sharif@student.gmi.edu.my,Male,2007-10-07,student
+Haris bin Sharif,S2025591364,haris.sharif@student.gmi.edu.my,Male,2001-01-23,student
+Xin Yi a/p Tee,S2025788531,xin.yi.tee@student.gmi.edu.my,Female,2001-04-22,student
+Hasif bin Sulaiman,S2025859431,hasif.sulaiman@student.gmi.edu.my,Male,2001-01-04,student
+Sarimah binti Yaacob,S2025664630,sarimah.yaacob@student.gmi.edu.my,Female,2004-03-26,student
+Nalini a/p Perumal,T2025300744,nalini.perumal@tto.gmi.edu.my,Female,1994-04-06,TTO
+Divya a/p Murugan,S2025472332,divya.murugan@student.gmi.edu.my,Female,2002-04-05,student
+Liang a/l Ng,S2025721182,liang.ng@student.gmi.edu.my,Male,2000-10-21,student
+Vijay a/l Gopal,S2025058077,vijay.gopal@student.gmi.edu.my,Male,2004-08-07,student
+Wei Han a/l Tee,S2025826980,wei.han.tee@student.gmi.edu.my,Male,2007-11-13,student
+Kumar a/l Muthu,S2025071824,kumar.muthu2@student.gmi.edu.my,Male,2007-10-26,student
+Mira a/p Subramaniam,S2025871448,mira.subramaniam@student.gmi.edu.my,Female,2003-12-23,student
+Thaqif bin Majid,S2025380179,thaqif.majid@student.gmi.edu.my,Male,2007-07-27,student
+Anita a/p Venkatesh,S2025591786,anita.venkatesh@student.gmi.edu.my,Female,2001-10-18,student
+Saravanan a/l Perumal,S2025978853,saravanan.perumal3@student.gmi.edu.my,Male,2007-06-05,student
+Mani a/l Subramaniam,S2025843164,mani.subramaniam3@student.gmi.edu.my,Male,2004-08-27,student
+Wafi bin Karim,S2025868069,wafi.karim@student.gmi.edu.my,Male,2002-07-04,student
+Nadia binti Ibrahim,T2025481937,nadia.ibrahim@tto.gmi.edu.my,Female,1989-08-22,TTO
+Elena binti Ali,S2025099971,elena.ali@student.gmi.edu.my,Female,2000-06-03,student
+Anand a/l Perumal,S2025460380,anand.perumal@student.gmi.edu.my,Male,2000-03-11,student
+Danish bin Mansor,S2025011283,danish.mansor@student.gmi.edu.my,Male,2006-06-08,student
+Asya a/p Murugan,S2025422672,asya.murugan@student.gmi.edu.my,Female,2007-09-07,student
+Khai Ming a/l Chen,S2025818964,khai.ming.chen@student.gmi.edu.my,Male,2001-01-19,student
+Jia Hao a/l Low,S2025070971,jia.hao.low2@student.gmi.edu.my,Male,2001-07-08,student
+Pei Wen a/p Goh,S2025849758,pei.wen.goh@student.gmi.edu.my,Female,2003-07-17,student
+Karthik a/l Raman,S2025497931,karthik.raman@student.gmi.edu.my,Male,2000-09-15,student
+Raja a/l Krishnan,S2025650440,raja.krishnan2@student.gmi.edu.my,Male,2001-12-15,student
+Deepa a/p Muthu,S2025550344,deepa.muthu2@student.gmi.edu.my,Female,2002-11-26,student
+Anita a/p Balakrishnan,T2025911400,anita.balakrishnan2@tto.gmi.edu.my,Female,1987-07-13,TTO
+Hao a/l Tan,S2025485549,hao.tan2@student.gmi.edu.my,Male,2002-08-22,student
+Asya a/p Gopal,S2025984045,asya.gopal@student.gmi.edu.my,Female,2000-11-02,student
+Jia Hao a/l Yeo,T2025802022,jia.hao.yeo@tto.gmi.edu.my,Male,1992-09-23,TTO
+Kai Wen a/l Teh,F2025020752,kai.wen.teh@staff.gmi.edu.my,Male,1976-06-13,staff
+Mani a/l Perumal,S2025806292,mani.perumal2@student.gmi.edu.my,Male,2006-08-19,student
+Anita a/p Rangasamy,S2025462687,anita.rangasamy2@student.gmi.edu.my,Female,2002-03-31,student
+Wei Jian a/l Liew,S2025190802,wei.jian.liew@student.gmi.edu.my,Male,2002-12-17,student
+Jia Hao a/l Yap,S2025341204,jia.hao.yap2@student.gmi.edu.my,Male,2005-08-29,student
+Hao a/l Yeo,S2025509579,hao.yeo@student.gmi.edu.my,Male,2001-06-26,student
+Talha bin Razak,S2025497497,talha.razak@student.gmi.edu.my,Male,2004-05-17,student
+Kamil bin Mahmud,T2025235802,kamil.mahmud@tto.gmi.edu.my,Male,1977-11-17,TTO
+Prakash a/l Perumal,S2025186376,prakash.perumal@student.gmi.edu.my,Male,2006-08-19,student
+Zhi Yang a/l Phang,S2025000969,zhi.yang.phang@student.gmi.edu.my,Male,2002-03-07,student
+Kumar a/l Krishnan,S2025119297,kumar.krishnan2@student.gmi.edu.my,Male,2006-02-21,student
+Haikal bin Sani,S2025937898,haikal.sani@student.gmi.edu.my,Male,2004-08-17,student
+Ramesh a/l Muthu,S2025749019,ramesh.muthu@student.gmi.edu.my,Male,2005-09-06,student
+Maryam binti Hassan,S2025312599,maryam.hassan@student.gmi.edu.my,Female,2005-10-09,student
+Sabrina binti Saad,S2025527169,sabrina.saad@student.gmi.edu.my,Female,2003-07-09,student
+Jia Hao a/l Pang,S2025469681,jia.hao.pang@student.gmi.edu.my,Male,2007-03-24,student
+Nalini a/p Krishnan,T2025070386,nalini.krishnan@tto.gmi.edu.my,Female,1981-05-09,TTO
+Maryam binti Basir,S2025929585,maryam.basir@student.gmi.edu.my,Female,2001-06-03,student
+Alya binti Ismail,S2025758660,alya.ismail@student.gmi.edu.my,Female,2006-01-22,student
+Arissa binti Sharif,S2025456995,arissa.sharif@student.gmi.edu.my,Female,2006-10-27,student
+Zubair bin Karim,S2025521112,zubair.karim@student.gmi.edu.my,Male,2007-04-24,student
+Aina binti Nawawi,S2025761875,aina.nawawi@student.gmi.edu.my,Female,2003-06-26,student
+Farhan bin Rahim,S2025337184,farhan.rahim@student.gmi.edu.my,Male,2003-08-20,student
+Amir bin Rahim,S2025749754,amir.rahim@student.gmi.edu.my,Male,2005-08-11,student
+Latifah binti Rahim,S2025580364,latifah.rahim@student.gmi.edu.my,Female,2002-12-17,student
+Irdina binti Zawawi,S2025836047,irdina.zawawi@student.gmi.edu.my,Female,2005-10-27,student
+Thaqif bin Zainal,S2025983523,thaqif.zainal@student.gmi.edu.my,Male,2003-07-31,student
+Xin Yi a/p Pang,S2025767346,xin.yi.pang@student.gmi.edu.my,Female,2000-01-13,student
+Humaira binti Nawawi,S2025046285,humaira.nawawi@student.gmi.edu.my,Female,2001-04-04,student
+Taufiq bin Azman,S2025245143,taufiq.azman@student.gmi.edu.my,Male,2007-12-13,student
+Yee Ling a/p Pang,S2025851968,yee.ling.pang@student.gmi.edu.my,Female,2006-06-11,student
+Khai Ming a/l Ng,S2025369510,khai.ming.ng@student.gmi.edu.my,Male,2001-10-08,student
+Wei Han a/l Koh,S2025307433,wei.han.koh@student.gmi.edu.my,Male,2005-12-26,student
+Mei Ling a/p Tee,S2025331993,mei.ling.tee@student.gmi.edu.my,Female,2005-11-10,student
+Fatin binti Salleh,S2025394578,fatin.salleh@student.gmi.edu.my,Female,2004-06-22,student
+Anita a/p Muthu,S2025292265,anita.muthu@student.gmi.edu.my,Female,2004-04-25,student
+Amirah binti Yahya,T2025331918,amirah.yahya@tto.gmi.edu.my,Female,1984-04-06,TTO
+Hui Xin a/p Chai,S2025474889,hui.xin.chai@student.gmi.edu.my,Female,2006-07-15,student
+Yasmin binti Mansor,S2025019810,yasmin.mansor@student.gmi.edu.my,Female,2001-05-11,student
+Luqman bin Noor,S2025615016,luqman.noor@student.gmi.edu.my,Male,2000-08-24,student
+Yan Yi a/p Yap,S2025482444,yan.yi.yap@student.gmi.edu.my,Female,2004-03-23,student
+Li Wei a/p Pang,S2025500889,li.wei.pang@student.gmi.edu.my,Female,2005-06-27,student
+Ahmad bin Zainal,S2025132117,ahmad.zainal@student.gmi.edu.my,Male,2004-07-26,student
+Ramesh a/l Muthu,S2025211596,ramesh.muthu2@student.gmi.edu.my,Male,2006-10-25,student
+Lakshmi a/p Venkatesh,S2025054621,lakshmi.venkatesh2@student.gmi.edu.my,Female,2006-06-15,student
+Talha bin Talib,T2025962690,talha.talib@tto.gmi.edu.my,Male,1991-05-27,TTO
+Mani a/l Rangasamy,S2025214577,mani.rangasamy@student.gmi.edu.my,Male,2004-09-25,student
+Wei Han a/l Chin,S2025913931,wei.han.chin@student.gmi.edu.my,Male,2001-01-10,student
+Arun a/l Venkatesh,S2025627748,arun.venkatesh@student.gmi.edu.my,Male,2001-09-30,student
+Lakshmi a/p Krishnan,T2025916626,lakshmi.krishnan@tto.gmi.edu.my,Female,1993-03-05,TTO
+Arun a/l Balakrishnan,T2025756764,arun.balakrishnan@tto.gmi.edu.my,Male,1992-06-25,TTO
+Ridwan bin Ali,S2025722771,ridwan.ali@student.gmi.edu.my,Male,2004-07-31,student
+Shalini a/p Murugan,T2025574176,shalini.murugan@tto.gmi.edu.my,Female,1978-06-14,TTO
+Nalini a/p Muthu,S2025541533,nalini.muthu@student.gmi.edu.my,Female,2002-03-26,student
+Qistina binti Yaacob,T2025834675,qistina.yaacob@tto.gmi.edu.my,Female,1989-12-19,TTO
+Zhi Yang a/l Yeo,S2025218223,zhi.yang.yeo@student.gmi.edu.my,Male,2000-07-28,student
+Asya a/p Venkatesh,S2025183001,asya.venkatesh@student.gmi.edu.my,Female,2006-04-12,student
+Divya a/p Subramaniam,S2025348645,divya.subramaniam@student.gmi.edu.my,Female,2006-03-14,student
+Anusha a/p Perumal,S2025214656,anusha.perumal@student.gmi.edu.my,Female,2003-03-31,student
+Iqbal bin Hussein,S2025246679,iqbal.hussein@student.gmi.edu.my,Male,2001-03-18,student
+Kai Wen a/l Koh,S2025158220,kai.wen.koh@student.gmi.edu.my,Male,2006-06-21,student
+Priya a/p Muthu,S2025536840,priya.muthu@student.gmi.edu.my,Female,2006-11-23,student
+Suresh a/l Balakrishnan,S2025152181,suresh.balakrishnan@student.gmi.edu.my,Male,2007-02-16,student
+Suresh a/l Murugan,T2025513990,suresh.murugan@tto.gmi.edu.my,Male,1981-02-10,TTO
+Jia Hao a/l Teh,S2025985482,jia.hao.teh@student.gmi.edu.my,Male,2000-02-07,student
+Han Bin a/l Chai,S2025297153,han.chai3@student.gmi.edu.my,Male,2000-03-17,student
+Karthik a/l Muthu,S2025751838,karthik.muthu@student.gmi.edu.my,Male,2003-02-23,student
+Fatin binti Latif,S2025560049,fatin.latif@student.gmi.edu.my,Female,2000-03-27,student
+Jun Wei a/l Tan,S2025826107,jun.wei.tan@student.gmi.edu.my,Male,2007-10-05,student
+Safwan bin Fauzi,S2025198586,safwan.fauzi@student.gmi.edu.my,Male,2003-09-17,student
+Ming Jie a/l Lee,S2025138731,ming.jie.lee@student.gmi.edu.my,Male,2003-01-25,student
+Mani a/l Perumal,F2025358966,mani.perumal@staff.gmi.edu.my,Male,1992-07-16,staff
+Khairi bin Osman,T2025111005,khairi.osman@tto.gmi.edu.my,Male,1980-11-01,TTO
+Prakash a/l Murugan,S2025608767,prakash.murugan@student.gmi.edu.my,Male,2001-11-27,student
+Ai Ling a/p Chai,S2025410129,ai.ling.chai@student.gmi.edu.my,Female,2003-09-18,student
+Arun a/l Murugan,S2025371377,arun.murugan@student.gmi.edu.my,Male,2004-02-10,student
+Azlan bin Omar,T2025537063,azlan.omar@tto.gmi.edu.my,Male,1991-03-15,TTO
+Raja a/l Balakrishnan,S2025032022,raja.balakrishnan@student.gmi.edu.my,Male,2001-12-06,student
+Batrisyia binti Sulaiman,S2025851822,batrisyia.sulaiman@student.gmi.edu.my,Female,2005-10-24,student
+Umaira binti Sani,S2025432848,umaira.sani@student.gmi.edu.my,Female,2003-09-23,student
+Mira a/p Balakrishnan,T2025929129,mira.balakrishnan@tto.gmi.edu.my,Female,1984-05-04,TTO
+Karthik a/l Muthu,S2025634570,karthik.muthu2@student.gmi.edu.my,Male,2001-01-17,student
+Rafiq bin Razak,S2025320415,rafiq.razak@student.gmi.edu.my,Male,2001-08-03,student
+Asya a/p Muthu,S2025738476,asya.muthu@student.gmi.edu.my,Female,2002-07-27,student
+Arif bin Talib,S2025837987,arif.talib@student.gmi.edu.my,Male,2005-08-17,student
+Xin Yi a/p Yeo,S2025326222,xin.yi.yeo@student.gmi.edu.my,Female,2002-05-28,student
+Lakshmi a/p Balakrishnan,S2025873225,lakshmi.balakrishnan@student.gmi.edu.my,Female,2005-04-10,student
+Murali a/l Venkatesh,S2025547894,murali.venkatesh@student.gmi.edu.my,Male,2002-07-19,student
+Jasmine binti Sabri,S2025453552,jasmine.sabri@student.gmi.edu.my,Female,2005-03-30,student
+Nisa binti Basir,S2025312043,nisa.basir@student.gmi.edu.my,Female,2007-05-07,student
+Nadhirah binti Omar,S2025229264,nadhirah.omar@student.gmi.edu.my,Female,2000-05-03,student
+Alya binti Ibrahim,S2025666856,alya.ibrahim2@student.gmi.edu.my,Female,2002-03-31,student
+Wei Han a/l Pang,T2025734019,wei.han.pang@tto.gmi.edu.my,Male,1991-11-25,TTO
+Xin Yi a/p Teh,S2025022415,xin.yi.teh@student.gmi.edu.my,Female,2005-06-19,student
+Fatin binti Kamal,S2025031256,fatin.kamal@student.gmi.edu.my,Female,2005-06-13,student
+Prakash a/l Murugan,T2025821437,prakash.murugan@tto.gmi.edu.my,Male,1976-02-19,TTO
+Deepa a/p Gopal,S2025405765,deepa.gopal2@student.gmi.edu.my,Female,2002-06-01,student
+Mariam binti Talib,S2025884741,mariam.talib@student.gmi.edu.my,Female,2002-11-22,student
+Syafiq bin Kamal,S2025107160,syafiq.kamal@student.gmi.edu.my,Male,2002-09-28,student
+Kamil bin Mansor,S2025621554,kamil.mansor@student.gmi.edu.my,Male,2002-11-08,student
+Jia Hao a/l Lim,S2025703983,jia.hao.lim@student.gmi.edu.my,Male,2004-09-27,student
+Danish bin Mahmud,S2025018823,danish.mahmud@student.gmi.edu.my,Male,2002-10-05,student
+Qin Yi a/p Chong,S2025130796,qin.yi.chong@student.gmi.edu.my,Female,2002-09-06,student
+Irdina binti Shah,S2025671478,irdina.shah@student.gmi.edu.my,Female,2005-02-10,student
+Azlan bin Jamal,S2025274365,azlan.jamal@student.gmi.edu.my,Male,2002-05-28,student
+Priya a/p Perumal,S2025607102,priya.perumal@student.gmi.edu.my,Female,2007-03-21,student
+Ming Jie a/l Yap,S2025380850,ming.jie.yap@student.gmi.edu.my,Male,2000-07-22,student
+Zhi Yang a/l Koh,S2025301066,zhi.yang.koh@student.gmi.edu.my,Male,2003-11-18,student
+Iman binti Zainal,S2025596763,iman.zainal@student.gmi.edu.my,Female,2007-05-25,student
+Kavita a/p Krishnan,S2025523790,kavita.krishnan@student.gmi.edu.my,Female,2003-12-03,student
+Rafiq bin Rahim,S2025191158,rafiq.rahim2@student.gmi.edu.my,Male,2006-10-24,student
+Jia Hao a/l Ng,T2025786823,jia.hao.ng@tto.gmi.edu.my,Male,1990-05-08,TTO
+Priya a/p Raman,S2025252445,priya.raman3@student.gmi.edu.my,Female,2005-10-03,student
+Wei Han a/l Yap,S2025604639,wei.han.yap@student.gmi.edu.my,Male,2007-05-04,student
+Ai Ling a/p Tan,S2025744402,ai.ling.tan@student.gmi.edu.my,Female,2005-10-06,student
+Anita a/p Venkatesh,S2025516610,anita.venkatesh2@student.gmi.edu.my,Female,2002-02-06,student
+Vijay a/l Raman,S2025057900,vijay.raman@student.gmi.edu.my,Male,2005-07-14,student
+Lina binti Jamal,T2025939852,lina.jamal@tto.gmi.edu.my,Female,1989-12-28,TTO
+Izzat bin Zaki,S2025646130,izzat.zaki@student.gmi.edu.my,Male,2007-09-27,student
+Ramesh a/l Subramaniam,S2025418403,ramesh.subramaniam@student.gmi.edu.my,Male,2003-11-10,student
+Kumar a/l Raman,S2025758890,kumar.raman@student.gmi.edu.my,Male,2000-08-19,student
+Siti binti Kamal,F2025298823,siti.kamal@staff.gmi.edu.my,Female,1982-03-02,staff
+Karthik a/l Perumal,S2025908112,karthik.perumal2@student.gmi.edu.my,Male,2003-01-24,student
+Xue Ting a/p Low,S2025417973,xue.ting.low@student.gmi.edu.my,Female,2002-05-18,student
+Jia Yi a/p Low,S2025197242,jia.yi.low@student.gmi.edu.my,Female,2000-04-28,student
+Saravanan a/l Gopal,S2025574085,saravanan.gopal@student.gmi.edu.my,Male,2003-07-22,student
+Nalini a/p Balakrishnan,S2025265274,nalini.balakrishnan@student.gmi.edu.my,Female,2003-06-18,student
+Umaira binti Hussein,S2025100482,umaira.hussein@student.gmi.edu.my,Female,2002-06-02,student
+Liang a/l Low,S2025387061,liang.low@student.gmi.edu.my,Male,2006-06-26,student
+Nisa binti Noor,S2025544762,nisa.noor@student.gmi.edu.my,Female,2003-06-24,student
+Ai Ling a/p Chia,S2025748855,ai.ling.chia@student.gmi.edu.my,Female,2005-06-22,student
+Prakash a/l Murugan,T2025296417,prakash.murugan2@tto.gmi.edu.my,Male,1984-07-01,TTO
+Jia Yi a/p Teh,S2025232129,jia.yi.teh@student.gmi.edu.my,Female,2005-03-22,student
+Irdina binti Majid,S2025464775,irdina.majid@student.gmi.edu.my,Female,2006-04-25,student
+Liang a/l Chai,S2025504360,liang.chai@student.gmi.edu.my,Male,2002-01-08,student
+Kumar a/l Subramaniam,T2025492338,kumar.subramaniam@tto.gmi.edu.my,Male,1994-04-12,TTO
+Saravanan a/l Balakrishnan,S2025547562,saravanan.balakrishnan@student.gmi.edu.my,Male,2000-07-28,student
+Anita a/p Balakrishnan,S2025274912,anita.balakrishnan@student.gmi.edu.my,Female,2000-10-08,student
+Izzah binti Saad,S2025176033,izzah.saad@student.gmi.edu.my,Female,2005-05-10,student
+Raja a/l Rangasamy,T2025720676,raja.rangasamy@tto.gmi.edu.my,Male,1995-07-11,TTO
+Arif bin Salim,S2025472634,arif.salim@student.gmi.edu.my,Male,2003-11-30,student
+Hui Xin a/p Yeo,S2025664055,hui.xin.yeo@student.gmi.edu.my,Female,2002-05-30,student
+Shalini a/p Muthu,S2025734409,shalini.muthu@student.gmi.edu.my,Female,2004-09-19,student
+Arun a/l Venkatesh,S2025273739,arun.venkatesh2@student.gmi.edu.my,Male,2007-05-14,student
+Kavita a/p Raman,T2025014657,kavita.raman@tto.gmi.edu.my,Female,1985-04-03,TTO
+Yee Ling a/p Chong,S2025265720,yee.ling.chong@student.gmi.edu.my,Female,2000-01-26,student
+Khadijah binti Kamal,S2025239287,khadijah.kamal@student.gmi.edu.my,Female,2004-10-12,student
+Liang a/l Lee,S2025807009,liang.lee@student.gmi.edu.my,Male,2005-12-01,student
+Thaqif bin Zaki,S2025306337,thaqif.zaki@student.gmi.edu.my,Male,2007-12-31,student
+Nurul binti Aziz,S2025862734,nurul.aziz@student.gmi.edu.my,Female,2003-11-07,student
+Murali a/l Gopal,S2025637721,murali.gopal@student.gmi.edu.my,Male,2001-12-04,student
+Xue Ting a/p Chai,S2025053999,xue.ting.chai@student.gmi.edu.my,Female,2002-12-29,student
+Vijay a/l Venkatesh,S2025555280,vijay.venkatesh2@student.gmi.edu.my,Male,2004-05-07,student
+Khairul bin Fauzi,S2025790992,khairul.fauzi@student.gmi.edu.my,Male,2007-05-30,student
+Murali a/l Raman,S2025505316,murali.raman2@student.gmi.edu.my,Male,2002-07-08,student
+Maisarah binti Mansor,S2025335859,maisarah.mansor@student.gmi.edu.my,Female,2004-02-02,student
+Batrisyia binti Azman,S2025854606,batrisyia.azman@student.gmi.edu.my,Female,2004-04-07,student
+Khai Ming a/l Chong,S2025700231,khai.ming.chong@student.gmi.edu.my,Male,2000-09-02,student
+Mira a/p Gopal,S2025348195,mira.gopal@student.gmi.edu.my,Female,2005-08-21,student
+Han Bin a/l Yeo,S2025327353,han.yeo@student.gmi.edu.my,Male,2004-01-25,student
+Sarimah binti Mansor,S2025936414,sarimah.mansor@student.gmi.edu.my,Female,2001-02-18,student
+Zhi Yang a/l Tee,S2025834573,zhi.yang.tee@student.gmi.edu.my,Male,2005-05-23,student
+Karthik a/l Perumal,S2025575420,karthik.perumal3@student.gmi.edu.my,Male,2001-08-23,student
+Kavita a/p Raman,S2025619667,kavita.raman@student.gmi.edu.my,Female,2000-08-31,student
+Zafran bin Nasir,T2025299615,zafran.nasir@tto.gmi.edu.my,Male,1980-12-14,TTO
+Arun a/l Rangasamy,S2025507418,arun.rangasamy3@student.gmi.edu.my,Male,2006-06-26,student
+Divya a/p Raman,S2025020956,divya.raman@student.gmi.edu.my,Female,2003-12-05,student
+Saravanan a/l Rangasamy,S2025145159,saravanan.rangasamy@student.gmi.edu.my,Male,2001-09-22,student
+Liang a/l Teh,S2025231201,liang.teh@student.gmi.edu.my,Male,2007-08-02,student
+Vijay a/l Perumal,T2025269084,vijay.perumal@tto.gmi.edu.my,Male,1985-11-21,TTO
+Lakshmi a/p Perumal,S2025908800,lakshmi.perumal2@student.gmi.edu.my,Female,2001-06-07,student
+Aina binti Hussein,S2025431427,aina.hussein@student.gmi.edu.my,Female,2007-07-03,student
+Siti binti Zaki,S2025994428,siti.zaki@student.gmi.edu.my,Female,2002-06-16,student
+Latifah binti Zain,S2025822735,latifah.zain@student.gmi.edu.my,Female,2006-08-28,student
+Lina binti Hussein,S2025426822,lina.hussein@student.gmi.edu.my,Female,2003-03-20,student
+Pei Wen a/p Tee,S2025201634,pei.wen.tee@student.gmi.edu.my,Female,2000-11-30,student
+Zhi Yang a/l Phang,F2025014653,zhi.yang.phang@staff.gmi.edu.my,Male,1970-04-09,staff
+Wei Han a/l Tan,F2025233066,wei.han.tan@staff.gmi.edu.my,Male,1980-12-09,staff
+Farhan bin Ridzuan,S2025798377,farhan.ridzuan@student.gmi.edu.my,Male,2001-05-08,student
+Azlan bin Sani,S2025203993,azlan.sani@student.gmi.edu.my,Male,2000-10-30,student
+Mira a/p Balakrishnan,S2025379662,mira.balakrishnan@student.gmi.edu.my,Female,2000-10-12,student
+Liang a/l Phang,S2025256107,liang.phang@student.gmi.edu.my,Male,2006-05-20,student
+Yan Yi a/p Tan,S2025926022,yan.yi.tan@student.gmi.edu.my,Female,2000-02-18,student
+Vijay a/l Raman,S2025382991,vijay.raman2@student.gmi.edu.my,Male,2000-11-25,student
+Meera a/p Venkatesh,S2025236207,meera.venkatesh@student.gmi.edu.my,Female,2006-01-22,student
+Mei Ling a/p Tee,S2025963128,mei.ling.tee2@student.gmi.edu.my,Female,2000-06-30,student
+Lakshmi a/p Raman,S2025992703,lakshmi.raman@student.gmi.edu.my,Female,2000-06-14,student
+Xue Ting a/p Tan,F2025465674,xue.ting.tan@staff.gmi.edu.my,Female,1998-05-05,staff
+Liang a/l Koh,S2025599321,liang.koh@student.gmi.edu.my,Male,2007-05-07,student
+Raja a/l Perumal,S2025266972,raja.perumal@student.gmi.edu.my,Male,2006-08-04,student
+Yee Ling a/p Lim,S2025618999,yee.ling.lim@student.gmi.edu.my,Female,2000-11-27,student
+Shalini a/p Krishnan,S2025910521,shalini.krishnan@student.gmi.edu.my,Female,2005-05-13,student
+Zi Hao a/l Lim,S2025471888,zi.hao.lim@student.gmi.edu.my,Male,2001-11-01,student
+Anand a/l Krishnan,S2025128445,anand.krishnan@student.gmi.edu.my,Male,2007-10-31,student
+Anand a/l Raman,S2025920956,anand.raman@student.gmi.edu.my,Male,2002-10-05,student
+Meera a/p Rangasamy,S2025071327,meera.rangasamy@student.gmi.edu.my,Female,2002-09-11,student
+Liang a/l Chen,S2025247064,liang.chen@student.gmi.edu.my,Male,2001-05-04,student
+Wei Han a/l Chin,S2025607412,wei.han.chin2@student.gmi.edu.my,Male,2004-02-13,student
+Li Wei a/p Phang,S2025104776,li.wei.phang@student.gmi.edu.my,Female,2005-07-30,student
+Li Wei a/p Wong,S2025018767,li.wei.wong@student.gmi.edu.my,Female,2006-05-19,student
+Yee Ling a/p Koh,S2025387138,yee.ling.koh@student.gmi.edu.my,Female,2006-03-12,student
+Khai Ming a/l Teh,S2025141403,khai.ming.teh@student.gmi.edu.my,Male,2004-11-29,student
+Azlan bin Yusof,S2025478893,azlan.yusof@student.gmi.edu.my,Male,2001-08-31,student
+Hao a/l Ng,S2025939744,hao.ng2@student.gmi.edu.my,Male,2002-05-24,student
+Harith bin Saad,S2025157290,harith.saad@student.gmi.edu.my,Male,2003-12-13,student
+Murali a/l Rangasamy,S2025372301,murali.rangasamy2@student.gmi.edu.my,Male,2001-07-20,student
+Karthik a/l Muthu,S2025525851,karthik.muthu3@student.gmi.edu.my,Male,2006-08-18,student
+Mira a/p Perumal,S2025250869,mira.perumal@student.gmi.edu.my,Female,2002-06-11,student
+Li Wei a/p Lim,S2025577668,li.wei.lim@student.gmi.edu.my,Female,2002-10-14,student
+Zi Ying a/p Chai,S2025521700,zi.ying.chai@student.gmi.edu.my,Female,2004-05-17,student
+Ming Jie a/l Koh,S2025836086,ming.jie.koh@student.gmi.edu.my,Male,2007-03-18,student
+Shafiqah binti Azman,S2025745724,shafiqah.azman@student.gmi.edu.my,Female,2005-05-05,student
+Raja a/l Venkatesh,S2025213198,raja.venkatesh@student.gmi.edu.my,Male,2001-07-26,student
+Batrisyia binti Kamal,S2025682937,batrisyia.kamal@student.gmi.edu.my,Female,2000-06-17,student
+Ridwan bin Jamil,S2025515481,ridwan.jamil@student.gmi.edu.my,Male,2001-04-16,student
+Jia Hao a/l Tee,S2025148387,jia.hao.tee2@student.gmi.edu.my,Male,2004-12-15,student
+Kumar a/l Krishnan,S2025528122,kumar.krishnan3@student.gmi.edu.my,Male,2002-01-17,student
+Sarimah binti Ridzuan,S2025957995,sarimah.ridzuan@student.gmi.edu.my,Female,2006-03-24,student
+Divya a/p Krishnan,S2025785991,divya.krishnan@student.gmi.edu.my,Female,2007-01-21,student
+Hui Xin a/p Yap,S2025142339,hui.xin.yap@student.gmi.edu.my,Female,2006-10-05,student
+Kavita a/p Raman,S2025361161,kavita.raman2@student.gmi.edu.my,Female,2003-05-05,student
+Safwan bin Omar,S2025489452,safwan.omar@student.gmi.edu.my,Male,2005-02-10,student
+Khai Ming a/l Tan,S2025707758,khai.ming.tan@student.gmi.edu.my,Male,2002-02-02,student
+Khairi bin Yahya,S2025440873,khairi.yahya@student.gmi.edu.my,Male,2004-01-17,student
+Muaz bin Othman,S2025371747,muaz.othman@student.gmi.edu.my,Male,2007-08-05,student
+Khairi bin Kassim,S2025764830,khairi.kassim@student.gmi.edu.my,Male,2000-10-04,student
+Zarina binti Aziz,S2025334403,zarina.aziz@student.gmi.edu.my,Female,2003-05-24,student
+Xin Yi a/p Phang,S2025079599,xin.yi.phang@student.gmi.edu.my,Female,2003-05-12,student
+Yasmin binti Sulaiman,S2025808669,yasmin.sulaiman@student.gmi.edu.my,Female,2005-10-31,student
+Anusha a/p Balakrishnan,S2025470069,anusha.balakrishnan@student.gmi.edu.my,Female,2004-03-20,student
+Khai Ming a/l Tan,S2025948043,khai.ming.tan2@student.gmi.edu.my,Male,2005-01-13,student
+Lakshmi a/p Krishnan,S2025467336,lakshmi.krishnan@student.gmi.edu.my,Female,2006-01-21,student
+Xin Yi a/p Tee,S2025691178,xin.yi.tee2@student.gmi.edu.my,Female,2004-01-28,student
+Deepa a/p Raman,S2025248196,deepa.raman@student.gmi.edu.my,Female,2004-04-05,student
+Wei Han a/l Chai,S2025254260,wei.han.chai@student.gmi.edu.my,Male,2001-06-01,student
+Hui Xin a/p Ng,S2025107295,hui.xin.ng@student.gmi.edu.my,Female,2000-01-24,student
+Priya a/p Krishnan,S2025213596,priya.krishnan@student.gmi.edu.my,Female,2001-01-13,student
+Maisarah binti Yusof,S2025001955,maisarah.yusof@student.gmi.edu.my,Female,2002-07-28,student
+Luqman bin Nawawi,F2025129675,luqman.nawawi@staff.gmi.edu.my,Male,1973-04-06,staff
+Priya a/p Balakrishnan,T2025632765,priya.balakrishnan@tto.gmi.edu.my,Female,1993-11-27,TTO
+Mira a/p Muthu,S2025206685,mira.muthu@student.gmi.edu.my,Female,2002-02-22,student
+Yee Ling a/p Ng,S2025308816,yee.ling.ng@student.gmi.edu.my,Female,2000-07-10,student
+Zhi Yang a/l Yap,S2025586174,zhi.yang.yap@student.gmi.edu.my,Male,2005-06-15,student
+Han Bin a/l Yap,F2025178202,han.yap@staff.gmi.edu.my,Male,1996-05-28,staff
+Divya a/p Rangasamy,S2025908648,divya.rangasamy@student.gmi.edu.my,Female,2002-06-14,student
+Nurul binti Yahya,S2025265302,nurul.yahya@student.gmi.edu.my,Female,2003-05-25,student
+Maryam binti Yaacob,S2025811521,maryam.yaacob@student.gmi.edu.my,Female,2004-04-10,student
+Anita a/p Muthu,S2025619295,anita.muthu2@student.gmi.edu.my,Female,2003-01-09,student
+Liang a/l Goh,S2025522001,liang.goh@student.gmi.edu.my,Male,2003-11-20,student
+Mani a/l Perumal,S2025722745,mani.perumal3@student.gmi.edu.my,Male,2007-05-04,student
+Talha bin Yusof,S2025772646,talha.yusof@student.gmi.edu.my,Male,2007-12-22,student
+Ming Jie a/l Phang,F2025309553,ming.jie.phang@staff.gmi.edu.my,Male,1980-02-06,staff
+Johari bin Halim,S2025672888,johari.halim@student.gmi.edu.my,Male,2004-08-20,student
+Murali a/l Murugan,S2025208234,murali.murugan@student.gmi.edu.my,Male,2003-09-17,student
+Jun Wei a/l Teh,S2025895358,jun.wei.teh@student.gmi.edu.my,Male,2006-02-06,student
+Liang a/l Liew,S2025958579,liang.liew@student.gmi.edu.my,Male,2007-12-22,student
+Ming Jie a/l Yeo,S2025571627,ming.jie.yeo@student.gmi.edu.my,Male,2004-08-08,student
+Nurul binti Hashim,S2025397405,nurul.hashim@student.gmi.edu.my,Female,2004-04-14,student
+Mani a/l Balakrishnan,T2025742350,mani.balakrishnan@tto.gmi.edu.my,Male,1989-06-17,TTO
+Haikal bin Talib,S2025110626,haikal.talib@student.gmi.edu.my,Male,2007-07-18,student
+Dina binti Rashid,S2025830336,dina.rashid@student.gmi.edu.my,Female,2004-02-12,student
+Mei Ling a/p Tee,T2025388157,mei.ling.tee@tto.gmi.edu.my,Female,1979-01-03,TTO
+Anusha a/p Raman,S2025151366,anusha.raman@student.gmi.edu.my,Female,2004-12-21,student
+Khai Ming a/l Low,S2025851113,khai.ming.low@student.gmi.edu.my,Male,2007-09-09,student
+Divya a/p Raman,T2025975176,divya.raman@tto.gmi.edu.my,Female,1979-07-14,TTO
+Hasif bin Halim,S2025846719,hasif.halim@student.gmi.edu.my,Male,2002-11-15,student
+Ramesh a/l Perumal,S2025287712,ramesh.perumal@student.gmi.edu.my,Male,2004-11-06,student
+Fatin binti Razali,S2025621725,fatin.razali@student.gmi.edu.my,Female,2007-02-24,student
+Asya a/p Krishnan,S2025101481,asya.krishnan@student.gmi.edu.my,Female,2005-02-01,student
+Izzah binti Bakar,S2025348663,izzah.bakar@student.gmi.edu.my,Female,2001-02-15,student
+Zara binti Bakar,S2025840126,zara.bakar@student.gmi.edu.my,Female,2001-07-19,student
+Iman binti Aziz,S2025748899,iman.aziz@student.gmi.edu.my,Female,2000-10-27,student
+Arun a/l Krishnan,F2025194345,arun.krishnan@staff.gmi.edu.my,Male,1984-04-06,staff
+Mei Ling a/p Lee,S2025317570,mei.ling.lee@student.gmi.edu.my,Female,2003-06-29,student
+Hafiz bin Yusof,S2025680213,hafiz.yusof@student.gmi.edu.my,Male,2007-02-11,student
+Nurul binti Hussein,S2025821312,nurul.hussein@student.gmi.edu.my,Female,2004-02-04,student
+Jia Yi a/p Chia,T2025380823,jia.yi.chia@tto.gmi.edu.my,Female,1982-01-05,TTO
+Iqbal bin Fauzi,S2025423859,iqbal.fauzi@student.gmi.edu.my,Male,2007-01-08,student
+Hana binti Basir,S2025134914,hana.basir@student.gmi.edu.my,Female,2002-03-15,student
+Yee Ling a/p Goh,S2025992845,yee.ling.goh@student.gmi.edu.my,Female,2001-07-13,student
+Nurin binti Latif,S2025548163,nurin.latif@student.gmi.edu.my,Female,2002-03-06,student
+Zulaikha binti Ali,S2025906614,zulaikha.ali@student.gmi.edu.my,Female,2006-02-21,student
+Qin Yi a/p Liew,S2025472702,qin.yi.liew@student.gmi.edu.my,Female,2002-06-07,student
+Ming Jie a/l Pang,S2025752329,ming.jie.pang@student.gmi.edu.my,Male,2003-05-27,student
+Yee Ling a/p Yap,S2025342247,yee.ling.yap@student.gmi.edu.my,Female,2006-03-16,student
+Qin Yi a/p Tan,S2025009941,qin.yi.tan@student.gmi.edu.my,Female,2007-10-22,student
+Lina binti Jamil,S2025120140,lina.jamil@student.gmi.edu.my,Female,2003-03-29,student
+Wei Jian a/l Chong,S2025377809,wei.jian.chong@student.gmi.edu.my,Male,2004-02-19,student
+Deepa a/p Perumal,S2025826859,deepa.perumal@student.gmi.edu.my,Female,2003-10-10,student
+Farhan bin Jamal,S2025596696,farhan.jamal@student.gmi.edu.my,Male,2007-07-10,student
+Ismail bin Shukri,S2025778587,ismail.shukri@student.gmi.edu.my,Male,2007-08-09,student
+Zi Ying a/p Low,S2025738389,zi.ying.low@student.gmi.edu.my,Female,2005-02-18,student
+Anand a/l Raman,S2025636118,anand.raman2@student.gmi.edu.my,Male,2001-06-30,student
+Ai Ling a/p Chong,S2025214836,ai.ling.chong@student.gmi.edu.my,Female,2000-08-08,student
+Meera a/p Perumal,S2025533795,meera.perumal@student.gmi.edu.my,Female,2005-01-07,student
+Lakshmi a/p Muthu,S2025724325,lakshmi.muthu@student.gmi.edu.my,Female,2004-12-01,student
+Sabrina binti Yaacob,S2025822697,sabrina.yaacob@student.gmi.edu.my,Female,2007-12-07,student
+Nalini a/p Subramaniam,S2025802704,nalini.subramaniam2@student.gmi.edu.my,Female,2000-03-31,student
+Qin Yi a/p Chong,S2025440586,qin.yi.chong2@student.gmi.edu.my,Female,2002-04-28,student
+Wei Han a/l Phang,F2025154944,wei.han.phang@staff.gmi.edu.my,Male,1988-10-10,staff
+Ismail bin Rahim,S2025295736,ismail.rahim@student.gmi.edu.my,Male,2003-03-27,student
+Kai Wen a/l Yap,S2025183982,kai.wen.yap@student.gmi.edu.my,Male,2007-11-25,student
+Haikal bin Ibrahim,S2025534665,haikal.ibrahim@student.gmi.edu.my,Male,2004-08-24,student
+Hafiz bin Kamal,S2025978513,hafiz.kamal@student.gmi.edu.my,Male,2007-02-27,student
+Umaira binti Sabri,S2025865065,umaira.sabri@student.gmi.edu.my,Female,2004-03-05,student
+Faiz bin Azman,S2025592719,faiz.azman@student.gmi.edu.my,Male,2004-02-08,student
+Xue Ting a/p Pang,S2025876190,xue.ting.pang2@student.gmi.edu.my,Female,2004-09-04,student
+Qistina binti Abdullah,S2025606733,qistina.abdullah@student.gmi.edu.my,Female,2003-12-08,student
+Lakshmi a/p Perumal,S2025359137,lakshmi.perumal3@student.gmi.edu.my,Female,2002-04-19,student
+Ming Jie a/l Lee,S2025946655,ming.jie.lee2@student.gmi.edu.my,Male,2004-08-04,student
+Siti binti Mansor,S2025404183,siti.mansor@student.gmi.edu.my,Female,2006-03-09,student
+Mani a/l Subramaniam,S2025329695,mani.subramaniam4@student.gmi.edu.my,Male,2000-05-04,student
+Zi Ying a/p Chong,F2025488581,zi.ying.chong@staff.gmi.edu.my,Female,1970-01-07,staff
+Xin Yi a/p Yap,S2025840588,xin.yi.yap2@student.gmi.edu.my,Female,2005-12-14,student
+Ai Ling a/p Phang,S2025766430,ai.ling.phang2@student.gmi.edu.my,Female,2001-02-24,student
+Nurul binti Yusof,F2025639010,nurul.yusof@staff.gmi.edu.my,Female,1988-01-13,staff
+Latifah binti Ahmad,T2025899273,latifah.ahmad@tto.gmi.edu.my,Female,1981-06-18,TTO
+Mei Ling a/p Yap,S2025466847,mei.ling.yap@student.gmi.edu.my,Female,2001-04-19,student
+Shalini a/p Murugan,S2025132518,shalini.murugan@student.gmi.edu.my,Female,2000-10-10,student
+Qistina binti Majid,S2025575932,qistina.majid@student.gmi.edu.my,Female,2005-11-05,student
+Deepa a/p Gopal,S2025862294,deepa.gopal3@student.gmi.edu.my,Female,2005-04-11,student
+Liang a/l Tan,S2025876076,liang.tan@student.gmi.edu.my,Male,2006-10-01,student
+Murali a/l Balakrishnan,S2025165620,murali.balakrishnan@student.gmi.edu.my,Male,2000-01-09,student
+Hafiz bin Jamal,S2025992355,hafiz.jamal@student.gmi.edu.my,Male,2006-05-26,student
+Xin Yi a/p Chong,S2025758512,xin.yi.chong@student.gmi.edu.my,Female,2007-10-15,student
+Fatin binti Rahman,S2025354394,fatin.rahman@student.gmi.edu.my,Female,2005-11-20,student
+Hafiz bin Hamid,S2025419163,hafiz.hamid@student.gmi.edu.my,Male,2002-11-27,student
+Deepa a/p Raman,F2025824708,deepa.raman@staff.gmi.edu.my,Female,1974-01-09,staff
+Talha bin Ali,S2025479124,talha.ali@student.gmi.edu.my,Male,2004-11-28,student
+Li Wei a/p Wong,S2025080247,li.wei.wong2@student.gmi.edu.my,Female,2004-12-22,student
+Zhi Yang a/l Liew,T2025774373,zhi.yang.liew@tto.gmi.edu.my,Male,1981-02-05,TTO
+Suresh a/l Subramaniam,S2025743319,suresh.subramaniam2@student.gmi.edu.my,Male,2006-05-13,student
+Haris bin Osman,S2025013420,haris.osman@student.gmi.edu.my,Male,2002-01-06,student
+Khai Ming a/l Low,S2025786213,khai.ming.low2@student.gmi.edu.my,Male,2001-09-08,student
+Qistina binti Sabri,S2025201141,qistina.sabri@student.gmi.edu.my,Female,2002-01-07,student
+Lakshmi a/p Muthu,S2025619198,lakshmi.muthu2@student.gmi.edu.my,Female,2000-04-29,student
+Li Wei a/p Chai,S2025217835,li.wei.chai@student.gmi.edu.my,Female,2002-07-10,student
+Farhan bin Latif,T2025979296,farhan.latif@tto.gmi.edu.my,Male,1994-05-01,TTO
+Jia Yi a/p Lim,S2025555939,jia.yi.lim2@student.gmi.edu.my,Female,2004-11-07,student
+Yee Ling a/p Ng,S2025110122,yee.ling.ng2@student.gmi.edu.my,Female,2002-12-13,student
+Ming Jie a/l Wong,T2025136412,ming.jie.wong@tto.gmi.edu.my,Male,1978-03-16,TTO
+Hao a/l Low,T2025986960,hao.low@tto.gmi.edu.my,Male,1983-02-25,TTO
+Raja a/l Perumal,F2025976483,raja.perumal@staff.gmi.edu.my,Male,1973-12-05,staff
+Siti binti Basir,T2025115508,siti.basir@tto.gmi.edu.my,Female,1982-09-05,TTO
+Faiz bin Aziz,S2025658162,faiz.aziz@student.gmi.edu.my,Male,2005-06-12,student
+Arun a/l Rangasamy,S2025786067,arun.rangasamy4@student.gmi.edu.my,Male,2006-01-19,student
+Suresh a/l Venkatesh,S2025288991,suresh.venkatesh@student.gmi.edu.my,Male,2002-04-03,student
+Aqilah binti Noor,T2025186666,aqilah.noor@tto.gmi.edu.my,Female,1979-11-20,TTO
+Ismail bin Salim,T2025002258,ismail.salim@tto.gmi.edu.my,Male,1988-06-13,TTO
+Priya a/p Murugan,S2025326003,priya.murugan@student.gmi.edu.my,Female,2000-01-20,student
+Ramesh a/l Krishnan,S2025531100,ramesh.krishnan@student.gmi.edu.my,Male,2001-06-20,student
+Mani a/l Perumal,S2025223924,mani.perumal4@student.gmi.edu.my,Male,2006-05-05,student
+Nisa binti Ali,S2025703324,nisa.ali@student.gmi.edu.my,Female,2004-05-31,student
+Murali a/l Murugan,S2025645576,murali.murugan2@student.gmi.edu.my,Male,2004-01-30,student
+Qin Yi a/p Yeo,S2025661987,qin.yi.yeo@student.gmi.edu.my,Female,2003-10-07,student
+Saravanan a/l Balakrishnan,S2025517397,saravanan.balakrishnan2@student.gmi.edu.my,Male,2000-10-23,student
+Mei Ling a/p Phang,S2025221309,mei.ling.phang@student.gmi.edu.my,Female,2007-03-28,student
+Divya a/p Perumal,T2025215218,divya.perumal@tto.gmi.edu.my,Female,1992-03-04,TTO
+Kumar a/l Gopal,S2025767109,kumar.gopal@student.gmi.edu.my,Male,2003-02-16,student
+Deepa a/p Gopal,S2025886977,deepa.gopal4@student.gmi.edu.my,Female,2005-04-29,student
+Thaqif bin Bakar,S2025489646,thaqif.bakar@student.gmi.edu.my,Male,2006-02-20,student
+Jasmine binti Mahmud,S2025568036,jasmine.mahmud@student.gmi.edu.my,Female,2006-05-07,student
+Pei Wen a/p Liew,S2025555321,pei.wen.liew@student.gmi.edu.my,Female,2002-02-13,student
+Xin Yi a/p Chin,S2025191855,xin.yi.chin@student.gmi.edu.my,Female,2002-01-04,student
+Anita a/p Raman,S2025873437,anita.raman@student.gmi.edu.my,Female,2005-05-31,student
+Khadijah binti Hussein,F2025402022,khadijah.hussein@staff.gmi.edu.my,Female,1979-04-13,staff
+Jia Hao a/l Yap,S2025460835,jia.hao.yap3@student.gmi.edu.my,Male,2003-12-03,student
+Zikri bin Hussein,S2025231464,zikri.hussein@student.gmi.edu.my,Male,2000-08-26,student
+Faiz bin Hassan,S2025038359,faiz.hassan@student.gmi.edu.my,Male,2003-03-19,student
+Qistina binti Halimi,S2025157116,qistina.halimi@student.gmi.edu.my,Female,2004-06-01,student
+Hana binti Yahya,S2025316759,hana.yahya@student.gmi.edu.my,Female,2003-12-23,student
+Murali a/l Perumal,S2025329896,murali.perumal@student.gmi.edu.my,Male,2001-04-09,student
+Prakash a/l Perumal,S2025457246,prakash.perumal2@student.gmi.edu.my,Male,2005-08-31,student
+Hao a/l Goh,S2025366175,hao.goh@student.gmi.edu.my,Male,2007-01-07,student
+Mani a/l Murugan,S2025199826,mani.murugan@student.gmi.edu.my,Male,2005-11-30,student
+Pei Wen a/p Yap,S2025372402,pei.wen.yap@student.gmi.edu.my,Female,2005-02-23,student
+Anand a/l Venkatesh,S2025953180,anand.venkatesh@student.gmi.edu.my,Male,2000-01-06,student
+Jia Hao a/l Lee,S2025329017,jia.hao.lee@student.gmi.edu.my,Male,2004-12-24,student
+Khai Ming a/l Phang,S2025881409,khai.ming.phang@student.gmi.edu.my,Male,2005-05-11,student
+Wei Han a/l Lim,S2025573090,wei.han.lim@student.gmi.edu.my,Male,2003-10-24,student
+Meera a/p Subramaniam,S2025031712,meera.subramaniam@student.gmi.edu.my,Female,2003-04-04,student
+Batrisyia binti Kassim,S2025439567,batrisyia.kassim@student.gmi.edu.my,Female,2003-11-24,student
+Zhi Yang a/l Chia,S2025144026,zhi.yang.chia@student.gmi.edu.my,Male,2003-01-11,student
+Ming Jie a/l Pang,S2025169577,ming.jie.pang2@student.gmi.edu.my,Male,2005-02-15,student
+Hana binti Mahmud,F2025685790,hana.mahmud@staff.gmi.edu.my,Female,1980-10-22,staff
+Lakshmi a/p Perumal,S2025648223,lakshmi.perumal4@student.gmi.edu.my,Female,2006-05-22,student
+Wei Han a/l Pang,S2025671567,wei.han.pang@student.gmi.edu.my,Male,2001-02-19,student
+Xue Ting a/p Low,S2025797501,xue.ting.low2@student.gmi.edu.my,Female,2005-02-27,student
+Arun a/l Krishnan,S2025419516,arun.krishnan@student.gmi.edu.my,Male,2004-01-26,student
+Ming Jie a/l Lee,S2025291199,ming.jie.lee3@student.gmi.edu.my,Male,2004-03-13,student
+Zhi Yang a/l Chin,S2025351339,zhi.yang.chin@student.gmi.edu.my,Male,2005-10-12,student
+Raja a/l Perumal,T2025677804,raja.perumal@tto.gmi.edu.my,Male,1975-02-02,TTO
+Ming Jie a/l Chong,S2025841629,ming.jie.chong@student.gmi.edu.my,Male,2000-11-22,student
+Shalini a/p Raman,S2025627302,shalini.raman3@student.gmi.edu.my,Female,2001-08-13,student
+Liang a/l Goh,S2025933543,liang.goh2@student.gmi.edu.my,Male,2005-10-11,student
+Iman binti Latif,S2025016263,iman.latif@student.gmi.edu.my,Female,2002-11-10,student
+Qin Yi a/p Chia,S2025686989,qin.yi.chia@student.gmi.edu.my,Female,2007-03-01,student
+Ming Jie a/l Wong,S2025155793,ming.jie.wong@student.gmi.edu.my,Male,2006-06-25,student
+Zarina binti Kassim,S2025668048,zarina.kassim@student.gmi.edu.my,Female,2007-05-30,student
+Safwan bin Hussein,T2025850970,safwan.hussein@tto.gmi.edu.my,Male,1990-01-10,TTO
+Nurin binti Zain,S2025378159,nurin.zain2@student.gmi.edu.my,Female,2007-11-22,student
+Yan Yi a/p Chin,S2025270645,yan.yi.chin@student.gmi.edu.my,Female,2003-10-15,student
+Liang a/l Phang,S2025659079,liang.phang2@student.gmi.edu.my,Male,2007-05-30,student
+Amirah binti Mahmud,S2025820574,amirah.mahmud@student.gmi.edu.my,Female,2006-05-07,student
+Yee Ling a/p Tan,S2025621567,yee.ling.tan2@student.gmi.edu.my,Female,2001-01-26,student
+Asya a/p Raman,S2025317272,asya.raman@student.gmi.edu.my,Female,2003-03-12,student
+Kumar a/l Muthu,S2025196230,kumar.muthu3@student.gmi.edu.my,Male,2007-07-29,student
+Xin Yi a/p Chia,S2025400185,xin.yi.chia@student.gmi.edu.my,Female,2003-04-05,student
+Lakshmi a/p Venkatesh,S2025352651,lakshmi.venkatesh3@student.gmi.edu.my,Female,2007-11-23,student
+Karthik a/l Krishnan,S2025250156,karthik.krishnan@student.gmi.edu.my,Male,2007-02-24,student
+Meera a/p Muthu,S2025975903,meera.muthu@student.gmi.edu.my,Female,2002-08-13,student
+Zi Ying a/p Teh,T2025109343,zi.ying.teh@tto.gmi.edu.my,Female,1989-12-12,TTO
+Suresh a/l Gopal,S2025981555,suresh.gopal2@student.gmi.edu.my,Male,2000-04-27,student
+Ramesh a/l Balakrishnan,S2025396622,ramesh.balakrishnan@student.gmi.edu.my,Male,2005-07-20,student
+Mei Ling a/p Chia,S2025759648,mei.ling.chia@student.gmi.edu.my,Female,2002-02-26,student
+Jia Hao a/l Tee,S2025454464,jia.hao.tee3@student.gmi.edu.my,Male,2001-06-02,student
+Mei Ling a/p Chong,S2025332556,mei.ling.chong@student.gmi.edu.my,Female,2001-09-17,student
+Kai Wen a/l Lee,S2025813587,kai.wen.lee@student.gmi.edu.my,Male,2005-08-20,student
+Rania binti Ahmad,S2025865604,rania.ahmad@student.gmi.edu.my,Female,2005-09-23,student
+Saravanan a/l Krishnan,S2025874086,saravanan.krishnan@student.gmi.edu.my,Male,2000-06-04,student
+Pei Wen a/p Chen,S2025520241,pei.wen.chen@student.gmi.edu.my,Female,2001-11-09,student
+Nalini a/p Perumal,S2025340654,nalini.perumal@student.gmi.edu.my,Female,2000-06-12,student
+Mira a/p Rangasamy,T2025631374,mira.rangasamy@tto.gmi.edu.my,Female,1994-12-03,TTO
+Murali a/l Raman,S2025079541,murali.raman3@student.gmi.edu.my,Male,2007-07-17,student
+Ai Ling a/p Chia,S2025547888,ai.ling.chia2@student.gmi.edu.my,Female,2000-01-14,student
+Zarina binti Mahmud,T2025535341,zarina.mahmud@tto.gmi.edu.my,Female,1983-03-13,TTO
+Luqman bin Sabri,F2025971548,luqman.sabri@staff.gmi.edu.my,Male,1997-02-27,staff
+Kumar a/l Raman,S2025546318,kumar.raman2@student.gmi.edu.my,Male,2004-10-12,student
+Murali a/l Muthu,S2025989567,murali.muthu2@student.gmi.edu.my,Male,2007-06-18,student
+Xue Ting a/p Tee,S2025933957,xue.ting.tee@student.gmi.edu.my,Female,2001-06-17,student
+Jia Hao a/l Koh,S2025728019,jia.hao.koh2@student.gmi.edu.my,Male,2001-09-21,student
+Zi Hao a/l Low,S2025217485,zi.hao.low@student.gmi.edu.my,Male,2002-05-10,student
+Yan Yi a/p Koh,S2025825102,yan.yi.koh@student.gmi.edu.my,Female,2001-01-26,student
+Raja a/l Subramaniam,S2025151135,raja.subramaniam@student.gmi.edu.my,Male,2006-05-19,student
+Kavita a/p Subramaniam,S2025339527,kavita.subramaniam2@student.gmi.edu.my,Female,2001-03-07,student
+Khai Ming a/l Chen,S2025439266,khai.ming.chen2@student.gmi.edu.my,Male,2005-06-10,student
+Arissa binti Latif,S2025529339,arissa.latif@student.gmi.edu.my,Female,2001-05-17,student
+Arif bin Omar,S2025764578,arif.omar@student.gmi.edu.my,Male,2002-10-02,student
+Azlan bin Ahmad,S2025291394,azlan.ahmad@student.gmi.edu.my,Male,2006-09-05,student
+Nalini a/p Balakrishnan,F2025621748,nalini.balakrishnan@staff.gmi.edu.my,Female,1990-03-22,staff
+Qin Yi a/p Yeo,S2025799983,qin.yi.yeo2@student.gmi.edu.my,Female,2005-03-28,student
+Fatin binti Zain,S2025308984,fatin.zain@student.gmi.edu.my,Female,2005-11-13,student
+Deepa a/p Krishnan,F2025110609,deepa.krishnan@staff.gmi.edu.my,Female,1991-12-30,staff
+Lakshmi a/p Balakrishnan,S2025674628,lakshmi.balakrishnan2@student.gmi.edu.my,Female,2003-06-02,student
+Hao a/l Chen,S2025192256,hao.chen@student.gmi.edu.my,Male,2001-10-23,student
+Ridwan bin Shah,S2025221694,ridwan.shah@student.gmi.edu.my,Male,2001-06-05,student
+Karthik a/l Balakrishnan,F2025189700,karthik.balakrishnan@staff.gmi.edu.my,Male,1998-03-21,staff
+Wei Jian a/l Koh,T2025021558,wei.jian.koh@tto.gmi.edu.my,Male,1980-12-27,TTO
+Mira a/p Gopal,T2025331182,mira.gopal@tto.gmi.edu.my,Female,1982-11-02,TTO
+Wei Jian a/l Liew,S2025538291,wei.jian.liew2@student.gmi.edu.my,Male,2001-01-04,student
+Aisyah binti Osman,S2025256021,aisyah.osman@student.gmi.edu.my,Female,2004-06-09,student
+Mei Ling a/p Yap,S2025506010,mei.ling.yap2@student.gmi.edu.my,Female,2002-06-14,student
+Ramesh a/l Muthu,S2025008872,ramesh.muthu3@student.gmi.edu.my,Male,2001-02-19,student
+Anand a/l Gopal,S2025556905,anand.gopal@student.gmi.edu.my,Male,2005-04-29,student
+Nisa binti Osman,S2025318337,nisa.osman@student.gmi.edu.my,Female,2006-12-05,student
+Mei Ling a/p Wong,S2025805877,mei.ling.wong@student.gmi.edu.my,Female,2000-03-21,student
+Hao a/l Koh,S2025166093,hao.koh2@student.gmi.edu.my,Male,2002-12-06,student
+Yasmin binti Yaacob,S2025079309,yasmin.yaacob@student.gmi.edu.my,Female,2000-09-16,student
+Xin Yi a/p Koh,F2025089200,xin.yi.koh@staff.gmi.edu.my,Female,1998-06-08,staff
+Saravanan a/l Raman,S2025353427,saravanan.raman@student.gmi.edu.my,Male,2003-03-31,student
+Ai Ling a/p Ng,S2025828726,ai.ling.ng@student.gmi.edu.my,Female,2007-08-19,student
+Siti binti Shah,S2025125280,siti.shah@student.gmi.edu.my,Female,2005-01-24,student
+Zafran bin Razak,S2025439888,zafran.razak@student.gmi.edu.my,Male,2002-08-14,student
+Saravanan a/l Gopal,S2025917543,saravanan.gopal2@student.gmi.edu.my,Male,2006-01-29,student
+Divya a/p Venkatesh,S2025117346,divya.venkatesh@student.gmi.edu.my,Female,2002-08-17,student
+Xue Ting a/p Goh,S2025608720,xue.ting.goh@student.gmi.edu.my,Female,2006-06-01,student
+Anusha a/p Subramaniam,S2025760318,anusha.subramaniam@student.gmi.edu.my,Female,2007-02-04,student
+Iman binti Zawawi,S2025747824,iman.zawawi@student.gmi.edu.my,Female,2005-06-16,student
+Liang a/l Goh,S2025243909,liang.goh3@student.gmi.edu.my,Male,2002-11-22,student
+Hao a/l Chen,T2025970176,hao.chen@tto.gmi.edu.my,Male,1985-04-30,TTO
+Fatin binti Zain,S2025024860,fatin.zain2@student.gmi.edu.my,Female,2001-06-02,student
+Nalini a/p Muthu,S2025699492,nalini.muthu2@student.gmi.edu.my,Female,2003-02-07,student
+Divya a/p Muthu,S2025692013,divya.muthu@student.gmi.edu.my,Female,2006-08-04,student
+Ahmad bin Sulaiman,S2025601277,ahmad.sulaiman@student.gmi.edu.my,Male,2007-09-14,student
+Deepa a/p Venkatesh,T2025610461,deepa.venkatesh@tto.gmi.edu.my,Female,1991-10-27,TTO
+Nurul binti Basir,T2025692804,nurul.basir@tto.gmi.edu.my,Female,1977-12-11,TTO
+Raja a/l Balakrishnan,S2025638539,raja.balakrishnan2@student.gmi.edu.my,Male,2003-07-23,student
+Murali a/l Balakrishnan,S2025499598,murali.balakrishnan2@student.gmi.edu.my,Male,2000-09-04,student
+Anusha a/p Gopal,S2025806785,anusha.gopal@student.gmi.edu.my,Female,2001-03-30,student
+Ming Jie a/l Phang,F2025691725,ming.jie.phang2@staff.gmi.edu.my,Male,1995-06-09,staff
+Irdina binti Rahman,S2025711543,irdina.rahman@student.gmi.edu.my,Female,2006-08-17,student
+Danish bin Zawawi,S2025302656,danish.zawawi@student.gmi.edu.my,Male,2002-05-02,student
+Anusha a/p Murugan,S2025047815,anusha.murugan@student.gmi.edu.my,Female,2003-08-18,student
+Hana binti Hassan,S2025575444,hana.hassan@student.gmi.edu.my,Female,2006-10-07,student
+Mei Ling a/p Chia,S2025281874,mei.ling.chia2@student.gmi.edu.my,Female,2006-04-27,student
+Sabrina binti Razak,S2025711713,sabrina.razak@student.gmi.edu.my,Female,2007-06-22,student
+Vijay a/l Balakrishnan,T2025052200,vijay.balakrishnan@tto.gmi.edu.my,Male,1994-02-01,TTO
+Hao a/l Wong,S2025435604,hao.wong@student.gmi.edu.my,Male,2001-09-25,student
+Yee Ling a/p Chen,S2025402582,yee.ling.chen@student.gmi.edu.my,Female,2006-11-07,student
+Harith bin Zawawi,S2025474554,harith.zawawi@student.gmi.edu.my,Male,2000-09-29,student
+Zi Hao a/l Teh,S2025299969,zi.hao.teh@student.gmi.edu.my,Male,2005-08-30,student
+Nadia binti Halim,T2025695027,nadia.halim@tto.gmi.edu.my,Female,1984-09-24,TTO
+Zi Hao a/l Goh,S2025787111,zi.hao.goh@student.gmi.edu.my,Male,2007-07-11,student
+Ming Jie a/l Chong,S2025059009,ming.jie.chong2@student.gmi.edu.my,Male,2001-01-15,student
+Yee Ling a/p Teh,S2025460820,yee.ling.teh@student.gmi.edu.my,Female,2004-01-06,student
+Kamil bin Ibrahim,S2025512002,kamil.ibrahim@student.gmi.edu.my,Male,2000-07-16,student
+Nalini a/p Krishnan,S2025002964,nalini.krishnan@student.gmi.edu.my,Female,2003-01-30,student
+Divya a/p Subramaniam,S2025325347,divya.subramaniam2@student.gmi.edu.my,Female,2006-06-22,student
+Harith bin Zain,S2025273236,harith.zain@student.gmi.edu.my,Male,2001-02-01,student
+Jia Yi a/p Goh,S2025389636,jia.yi.goh2@student.gmi.edu.my,Female,2001-10-20,student
+Deepa a/p Raman,S2025018697,deepa.raman2@student.gmi.edu.my,Female,2003-03-14,student
+Xin Yi a/p Goh,S2025928503,xin.yi.goh@student.gmi.edu.my,Female,2004-07-18,student
+Wafi bin Hamid,S2025575582,wafi.hamid@student.gmi.edu.my,Male,2007-12-03,student
+Alya binti Ahmad,S2025709807,alya.ahmad@student.gmi.edu.my,Female,2005-12-16,student
+Shafiqah binti Shah,S2025650836,shafiqah.shah@student.gmi.edu.my,Female,2003-09-18,student
+Xin Yi a/p Chin,S2025434951,xin.yi.chin2@student.gmi.edu.my,Female,2007-02-26,student
+Zhi Yang a/l Chia,S2025684144,zhi.yang.chia2@student.gmi.edu.my,Male,2003-09-02,student
+Anita a/p Perumal,T2025625057,anita.perumal@tto.gmi.edu.my,Female,1994-08-02,TTO
+Deepa a/p Subramaniam,S2025427423,deepa.subramaniam2@student.gmi.edu.my,Female,2002-10-07,student
+Ridwan bin Nawawi,S2025707407,ridwan.nawawi@student.gmi.edu.my,Male,2005-12-05,student
+Anand a/l Krishnan,S2025760185,anand.krishnan2@student.gmi.edu.my,Male,2003-07-26,student
+Jia Hao a/l Wong,S2025457071,jia.hao.wong@student.gmi.edu.my,Male,2000-03-02,student
+Safwan bin Sulaiman,S2025629391,safwan.sulaiman@student.gmi.edu.my,Male,2005-02-06,student
+Jasmine binti Omar,S2025021664,jasmine.omar@student.gmi.edu.my,Female,2007-11-05,student
+Amirah binti Osman,S2025107351,amirah.osman@student.gmi.edu.my,Female,2005-02-28,student
+Ahmad bin Shukri,S2025645470,ahmad.shukri@student.gmi.edu.my,Male,2004-05-24,student
+Saravanan a/l Subramaniam,S2025269644,saravanan.subramaniam@student.gmi.edu.my,Male,2001-10-21,student
+Xin Yi a/p Tan,S2025795502,xin.yi.tan2@student.gmi.edu.my,Female,2000-09-11,student
+Hao a/l Chen,S2025359542,hao.chen2@student.gmi.edu.my,Male,2005-02-13,student
+Shalini a/p Subramaniam,S2025365467,shalini.subramaniam@student.gmi.edu.my,Female,2005-08-02,student
+Prakash a/l Rangasamy,S2025459582,prakash.rangasamy@student.gmi.edu.my,Male,2002-06-23,student
+Khai Ming a/l Wong,S2025013387,khai.ming.wong2@student.gmi.edu.my,Male,2004-05-03,student
+Kavita a/p Balakrishnan,S2025023088,kavita.balakrishnan2@student.gmi.edu.my,Female,2001-03-21,student
+Jia Hao a/l Wong,S2025021554,jia.hao.wong2@student.gmi.edu.my,Male,2001-07-24,student
+Khairi bin Sulaiman,S2025199371,khairi.sulaiman@student.gmi.edu.my,Male,2001-06-05,student
+Pei Wen a/p Chia,T2025113844,pei.wen.chia@tto.gmi.edu.my,Female,1981-02-20,TTO
+Anusha a/p Rangasamy,T2025968934,anusha.rangasamy@tto.gmi.edu.my,Female,1985-03-03,TTO
+Lakshmi a/p Venkatesh,S2025683128,lakshmi.venkatesh4@student.gmi.edu.my,Female,2002-03-15,student
+Yu Xuan a/l Lee,S2025996309,yu.xuan.lee@student.gmi.edu.my,Male,2003-07-15,student
+Murali a/l Rangasamy,S2025716581,murali.rangasamy3@student.gmi.edu.my,Male,2002-06-25,student
+Hana binti Talib,S2025112213,hana.talib@student.gmi.edu.my,Female,2006-12-17,student
+Hao a/l Ng,S2025860983,hao.ng3@student.gmi.edu.my,Male,2000-08-13,student
+Maryam binti Yahya,S2025629187,maryam.yahya@student.gmi.edu.my,Female,2003-01-06,student
+Jia Hao a/l Wong,S2025477342,jia.hao.wong3@student.gmi.edu.my,Male,2001-09-25,student
+Ai Ling a/p Liew,F2025509019,ai.ling.liew@staff.gmi.edu.my,Female,1986-11-01,staff
+Nalini a/p Rangasamy,T2025093942,nalini.rangasamy@tto.gmi.edu.my,Female,1990-04-01,TTO
+Nurin binti Fauzi,S2025755504,nurin.fauzi@student.gmi.edu.my,Female,2004-09-16,student
+Liang a/l Chen,S2025262958,liang.chen2@student.gmi.edu.my,Male,2000-12-03,student
+Xin Yi a/p Teh,S2025472662,xin.yi.teh2@student.gmi.edu.my,Female,2005-07-30,student
+Mei Ling a/p Low,S2025725695,mei.ling.low@student.gmi.edu.my,Female,2007-05-06,student
+Zi Hao a/l Chia,S2025028370,zi.hao.chia@student.gmi.edu.my,Male,2000-10-13,student
+Anita a/p Subramaniam,F2025243513,anita.subramaniam@staff.gmi.edu.my,Female,1973-05-10,staff
+Meera a/p Subramaniam,S2025476996,meera.subramaniam2@student.gmi.edu.my,Female,2004-09-20,student
+Ai Ling a/p Yap,S2025863731,ai.ling.yap@student.gmi.edu.my,Female,2002-09-05,student
+Khai Ming a/l Teh,S2025283589,khai.ming.teh2@student.gmi.edu.my,Male,2007-04-01,student
+Maryam binti Fauzi,S2025291078,maryam.fauzi@student.gmi.edu.my,Female,2006-05-17,student
+Khai Ming a/l Ng,S2025457118,khai.ming.ng2@student.gmi.edu.my,Male,2007-07-18,student
+Murali a/l Perumal,S2025142665,murali.perumal2@student.gmi.edu.my,Male,2004-06-20,student
+Saravanan a/l Perumal,S2025574174,saravanan.perumal4@student.gmi.edu.my,Male,2007-10-23,student
+Karthik a/l Muthu,S2025463053,karthik.muthu4@student.gmi.edu.my,Male,2006-09-01,student
+Priya a/p Balakrishnan,S2025906372,priya.balakrishnan4@student.gmi.edu.my,Female,2001-07-20,student
+Suresh a/l Venkatesh,S2025368082,suresh.venkatesh2@student.gmi.edu.my,Male,2006-04-07,student
+Nurul binti Talib,S2025217127,nurul.talib@student.gmi.edu.my,Female,2001-01-25,student
+Hui Xin a/p Low,S2025751948,hui.xin.low@student.gmi.edu.my,Female,2005-07-30,student
+Lakshmi a/p Balakrishnan,F2025711163,lakshmi.balakrishnan@staff.gmi.edu.my,Female,1984-12-06,staff
+Rafiq bin Halimi,S2025716341,rafiq.halimi@student.gmi.edu.my,Male,2004-10-31,student
+Fatin binti Hussein,S2025202355,fatin.hussein@student.gmi.edu.my,Female,2003-07-24,student
+Kumar a/l Krishnan,S2025770288,kumar.krishnan4@student.gmi.edu.my,Male,2007-03-13,student
+Iqbal bin Aziz,S2025571291,iqbal.aziz@student.gmi.edu.my,Male,2007-09-06,student
+Khairi bin Fauzi,S2025782166,khairi.fauzi@student.gmi.edu.my,Male,2006-12-04,student
+Rafiq bin Hassan,F2025905423,rafiq.hassan@staff.gmi.edu.my,Male,1999-07-26,staff
+Karthik a/l Subramaniam,S2025117550,karthik.subramaniam@student.gmi.edu.my,Male,2000-12-10,student
+Pei Wen a/p Chong,S2025693700,pei.wen.chong@student.gmi.edu.my,Female,2006-10-20,student
+Yusuf bin Halim,F2025808230,yusuf.halim@staff.gmi.edu.my,Male,1988-03-18,staff
+Anita a/p Murugan,S2025232879,anita.murugan@student.gmi.edu.my,Female,2000-03-17,student
+Ramesh a/l Murugan,S2025777479,ramesh.murugan@student.gmi.edu.my,Male,2003-08-24,student
+Anusha a/p Subramaniam,S2025478589,anusha.subramaniam2@student.gmi.edu.my,Female,2000-11-13,student
+Prakash a/l Balakrishnan,S2025117808,prakash.balakrishnan@student.gmi.edu.my,Male,2003-07-16,student
+Faris bin Othman,S2025265230,faris.othman2@student.gmi.edu.my,Male,2007-01-25,student
+Nurin binti Zain,S2025076882,nurin.zain3@student.gmi.edu.my,Female,2000-01-10,student
+Yan Yi a/p Low,S2025695036,yan.yi.low@student.gmi.edu.my,Female,2005-05-22,student
+Han Bin a/l Tan,S2025261264,han.tan@student.gmi.edu.my,Male,2003-10-23,student
+Taufiq bin Halimi,S2025218033,taufiq.halimi@student.gmi.edu.my,Male,2000-11-17,student
+Hasif bin Latif,S2025484792,hasif.latif@student.gmi.edu.my,Male,2003-06-03,student
+Qistina binti Latif,S2025544918,qistina.latif@student.gmi.edu.my,Female,2005-10-17,student
+Azlan bin Yaacob,T2025060663,azlan.yaacob@tto.gmi.edu.my,Male,1990-08-17,TTO
+Karthik a/l Subramaniam,S2025429278,karthik.subramaniam2@student.gmi.edu.my,Male,2006-01-01,student
+Nalini a/p Venkatesh,S2025512170,nalini.venkatesh@student.gmi.edu.my,Female,2003-12-09,student
+Pei Wen a/p Teh,F2025418880,pei.wen.teh@staff.gmi.edu.my,Female,1997-04-22,staff
+Ming Jie a/l Teh,S2025569779,ming.jie.teh@student.gmi.edu.my,Male,2005-09-05,student
+Mei Ling a/p Chai,S2025668416,mei.ling.chai@student.gmi.edu.my,Female,2002-05-27,student
+Raja a/l Murugan,S2025415136,raja.murugan@student.gmi.edu.my,Male,2004-11-03,student
+Harith bin Hassan,S2025116530,harith.hassan@student.gmi.edu.my,Male,2006-01-21,student
+Yan Yi a/p Chai,S2025654163,yan.yi.chai2@student.gmi.edu.my,Female,2007-08-28,student
+Jia Yi a/p Yap,S2025668895,jia.yi.yap@student.gmi.edu.my,Female,2006-03-15,student
+Balqis binti Shukri,F2025856262,balqis.shukri@staff.gmi.edu.my,Female,1976-04-02,staff
+Ming Jie a/l Chong,S2025756364,ming.jie.chong3@student.gmi.edu.my,Male,2006-02-05,student
+Mei Ling a/p Yap,S2025231479,mei.ling.yap3@student.gmi.edu.my,Female,2000-10-20,student
+Pei Wen a/p Koh,S2025201613,pei.wen.koh@student.gmi.edu.my,Female,2004-02-03,student
+Asya a/p Gopal,S2025562618,asya.gopal2@student.gmi.edu.my,Female,2007-10-27,student
+Yu Xuan a/l Teh,T2025526668,yu.xuan.teh@tto.gmi.edu.my,Male,1989-11-06,TTO
+Jun Wei a/l Chia,S2025732783,jun.wei.chia@student.gmi.edu.my,Male,2004-09-04,student
+Saravanan a/l Gopal,S2025898182,saravanan.gopal3@student.gmi.edu.my,Male,2001-02-19,student
+Han Bin a/l Wong,S2025005201,han.wong2@student.gmi.edu.my,Male,2006-11-07,student
+Jia Yi a/p Liew,S2025677552,jia.yi.liew@student.gmi.edu.my,Female,2007-04-08,student
+Pei Wen a/p Pang,S2025597067,pei.wen.pang@student.gmi.edu.my,Female,2005-12-30,student
+Kavita a/p Venkatesh,S2025673235,kavita.venkatesh2@student.gmi.edu.my,Female,2006-11-07,student
+Irdina binti Osman,S2025644362,irdina.osman@student.gmi.edu.my,Female,2001-09-07,student
+Iqbal bin Yahya,S2025869450,iqbal.yahya@student.gmi.edu.my,Male,2002-07-21,student
+Lakshmi a/p Rangasamy,S2025457661,lakshmi.rangasamy@student.gmi.edu.my,Female,2002-04-18,student
+Wei Han a/l Lim,S2025939147,wei.han.lim2@student.gmi.edu.my,Male,2003-05-27,student
+Zhi Yang a/l Chai,S2025381052,zhi.yang.chai@student.gmi.edu.my,Male,2004-07-24,student
+Kamil bin Saad,S2025734041,kamil.saad@student.gmi.edu.my,Male,2004-07-18,student
+Mira a/p Raman,S2025151893,mira.raman@student.gmi.edu.my,Female,2003-08-23,student
+Lakshmi a/p Gopal,S2025288784,lakshmi.gopal@student.gmi.edu.my,Female,2003-07-19,student
+Pei Wen a/p Chin,S2025908402,pei.wen.chin2@student.gmi.edu.my,Female,2007-09-01,student
+Haris bin Zawawi,S2025716472,haris.zawawi@student.gmi.edu.my,Male,2001-05-03,student
+Ai Ling a/p Lim,S2025708483,ai.ling.lim@student.gmi.edu.my,Female,2007-02-04,student
+Latifah binti Ali,S2025257118,latifah.ali@student.gmi.edu.my,Female,2005-05-25,student
+Zulaikha binti Azman,S2025582208,zulaikha.azman@student.gmi.edu.my,Female,2000-02-12,student
+Lakshmi a/p Balakrishnan,S2025648182,lakshmi.balakrishnan3@student.gmi.edu.my,Female,2004-08-25,student
+Fatin binti Mansor,S2025035821,fatin.mansor@student.gmi.edu.my,Female,2001-10-27,student
+Nalini a/p Perumal,S2025475576,nalini.perumal2@student.gmi.edu.my,Female,2003-02-28,student
+Umaira binti Ali,S2025695122,umaira.ali@student.gmi.edu.my,Female,2001-09-23,student
+Khai Ming a/l Liew,F2025331218,khai.ming.liew@staff.gmi.edu.my,Male,1980-06-01,staff
+Arun a/l Venkatesh,S2025589256,arun.venkatesh3@student.gmi.edu.my,Male,2001-06-12,student
+Fatin binti Shukri,S2025547054,fatin.shukri@student.gmi.edu.my,Female,2001-07-13,student
+Mira a/p Perumal,F2025476854,mira.perumal@staff.gmi.edu.my,Female,1981-03-16,staff
+Anita a/p Muthu,S2025911236,anita.muthu3@student.gmi.edu.my,Female,2003-04-26,student
+Raja a/l Balakrishnan,S2025346756,raja.balakrishnan3@student.gmi.edu.my,Male,2006-10-09,student
+Qin Yi a/p Teh,T2025543189,qin.yi.teh@tto.gmi.edu.my,Female,1981-06-17,TTO
+Wei Jian a/l Chong,S2025123220,wei.jian.chong2@student.gmi.edu.my,Male,2007-10-18,student
+Maryam binti Sabri,S2025619559,maryam.sabri@student.gmi.edu.my,Female,2001-04-29,student
+Jia Yi a/p Chia,T2025821328,jia.yi.chia2@tto.gmi.edu.my,Female,1983-02-12,TTO
+Xin Yi a/p Chin,F2025198459,xin.yi.chin@staff.gmi.edu.my,Female,1995-02-13,staff
+Xue Ting a/p Liew,S2025474767,xue.ting.liew@student.gmi.edu.my,Female,2000-02-12,student
+Yu Xuan a/l Teh,S2025577284,yu.xuan.teh2@student.gmi.edu.my,Male,2000-10-31,student
+Suresh a/l Murugan,T2025906388,suresh.murugan2@tto.gmi.edu.my,Male,1978-06-18,TTO
+Nadhirah binti Yusof,S2025513813,nadhirah.yusof@student.gmi.edu.my,Female,2004-06-04,student
+Sabrina binti Shukri,S2025518031,sabrina.shukri@student.gmi.edu.my,Female,2003-09-09,student
+Ridwan bin Shah,S2025037434,ridwan.shah2@student.gmi.edu.my,Male,2003-10-21,student
+Priya a/p Muthu,T2025470053,priya.muthu@tto.gmi.edu.my,Female,1985-01-18,TTO
+Jia Hao a/l Chin,S2025759807,jia.hao.chin@student.gmi.edu.my,Male,2003-09-10,student
+Zi Hao a/l Lim,T2025177224,zi.hao.lim@tto.gmi.edu.my,Male,1983-11-08,TTO
+Nalini a/p Murugan,S2025604178,nalini.murugan@student.gmi.edu.my,Female,2003-01-09,student
+Jun Wei a/l Phang,S2025200460,jun.wei.phang@student.gmi.edu.my,Male,2004-09-26,student
+Azlan bin Zain,S2025622681,azlan.zain@student.gmi.edu.my,Male,2007-05-03,student
+Danish bin Sani,S2025024195,danish.sani@student.gmi.edu.my,Male,2007-05-23,student
+Zubair bin Saad,S2025258962,zubair.saad@student.gmi.edu.my,Male,2007-12-10,student
+Putri binti Kamal,S2025721770,putri.kamal@student.gmi.edu.my,Female,2002-07-08,student
+Nurul binti Osman,S2025454892,nurul.osman@student.gmi.edu.my,Female,2001-07-28,student
+Latifah binti Jamil,S2025752668,latifah.jamil@student.gmi.edu.my,Female,2005-03-20,student
+Ai Ling a/p Pang,S2025384996,ai.ling.pang@student.gmi.edu.my,Female,2001-01-19,student
+Rafiq bin Rashid,S2025142605,rafiq.rashid@student.gmi.edu.my,Male,2006-06-19,student
+Pei Wen a/p Chia,S2025524576,pei.wen.chia@student.gmi.edu.my,Female,2005-06-11,student
+Luqman bin Azman,S2025678326,luqman.azman@student.gmi.edu.my,Male,2007-11-13,student
+Kai Wen a/l Koh,S2025724506,kai.wen.koh2@student.gmi.edu.my,Male,2006-08-03,student
+Shalini a/p Perumal,S2025211377,shalini.perumal@student.gmi.edu.my,Female,2002-09-16,student
+Liang a/l Low,S2025456548,liang.low2@student.gmi.edu.my,Male,2000-06-21,student
+Zhi Yang a/l Lim,S2025067208,zhi.yang.lim@student.gmi.edu.my,Male,2004-09-23,student
+Kavita a/p Murugan,S2025730955,kavita.murugan@student.gmi.edu.my,Female,2007-02-13,student
+Arif bin Ridzuan,S2025686982,arif.ridzuan@student.gmi.edu.my,Male,2000-04-06,student
+Jia Yi a/p Yap,T2025953726,jia.yi.yap@tto.gmi.edu.my,Female,1995-07-28,TTO
+Jia Yi a/p Low,S2025342226,jia.yi.low2@student.gmi.edu.my,Female,2003-05-26,student
+Zafran bin Razali,S2025217347,zafran.razali@student.gmi.edu.my,Male,2000-07-29,student
+Zubair bin Hassan,S2025603555,zubair.hassan@student.gmi.edu.my,Male,2005-02-16,student
+Zhi Yang a/l Pang,S2025323754,zhi.yang.pang2@student.gmi.edu.my,Male,2005-12-20,student
+Zi Ying a/p Lim,S2025762502,zi.ying.lim@student.gmi.edu.my,Female,2006-11-05,student
+Li Wei a/p Koh,S2025517924,li.wei.koh@student.gmi.edu.my,Female,2005-11-20,student
+Arun a/l Venkatesh,S2025347868,arun.venkatesh4@student.gmi.edu.my,Male,2005-05-14,student
+Anita a/p Gopal,S2025876160,anita.gopal@student.gmi.edu.my,Female,2007-02-10,student
+Xin Yi a/p Wong,S2025800865,xin.yi.wong@student.gmi.edu.my,Female,2001-03-12,student
+Mei Ling a/p Phang,S2025257576,mei.ling.phang2@student.gmi.edu.my,Female,2006-05-17,student
+Safwan bin Azman,S2025568508,safwan.azman@student.gmi.edu.my,Male,2002-05-17,student
+Asya a/p Krishnan,S2025934823,asya.krishnan2@student.gmi.edu.my,Female,2002-01-29,student
+Qin Yi a/p Tee,S2025084269,qin.yi.tee@student.gmi.edu.my,Female,2007-07-01,student
+Jia Yi a/p Teh,F2025592584,jia.yi.teh@staff.gmi.edu.my,Female,1995-01-06,staff
+Zhi Yang a/l Yap,S2025840856,zhi.yang.yap2@student.gmi.edu.my,Male,2006-04-22,student
+Kumar a/l Gopal,S2025916331,kumar.gopal2@student.gmi.edu.my,Male,2000-05-29,student
+Iqbal bin Halimi,S2025120940,iqbal.halimi@student.gmi.edu.my,Male,2003-07-25,student
+Ramesh a/l Perumal,S2025970855,ramesh.perumal2@student.gmi.edu.my,Male,2002-04-25,student
+Nalini a/p Venkatesh,S2025809980,nalini.venkatesh2@student.gmi.edu.my,Female,2006-03-18,student
+Haikal bin Kamal,S2025420749,haikal.kamal@student.gmi.edu.my,Male,2004-06-23,student
+Ming Jie a/l Koh,F2025888669,ming.jie.koh@staff.gmi.edu.my,Male,1991-11-02,staff
+Ming Jie a/l Pang,S2025543467,ming.jie.pang3@student.gmi.edu.my,Male,2004-08-21,student
+Priya a/p Venkatesh,S2025695320,priya.venkatesh@student.gmi.edu.my,Female,2004-11-19,student
+Ai Ling a/p Tee,S2025490688,ai.ling.tee@student.gmi.edu.my,Female,2000-02-19,student
+Ai Ling a/p Chin,S2025831059,ai.ling.chin@student.gmi.edu.my,Female,2005-12-08,student
+Anand a/l Venkatesh,S2025425077,anand.venkatesh2@student.gmi.edu.my,Male,2006-02-02,student
+Zarina binti Hussein,S2025776599,zarina.hussein@student.gmi.edu.my,Female,2004-03-30,student
+Sarimah binti Bakar,S2025803427,sarimah.bakar@student.gmi.edu.my,Female,2004-11-11,student
+Balqis binti Mansor,S2025382066,balqis.mansor@student.gmi.edu.my,Female,2005-02-16,student
+Mei Ling a/p Wong,S2025780658,mei.ling.wong2@student.gmi.edu.my,Female,2007-07-17,student
+Priya a/p Muthu,S2025524086,priya.muthu2@student.gmi.edu.my,Female,2000-11-15,student
+Zi Ying a/p Pang,S2025124665,zi.ying.pang@student.gmi.edu.my,Female,2000-03-01,student
+Danish bin Zaki,T2025543593,danish.zaki@tto.gmi.edu.my,Male,1988-06-26,TTO
+Yu Xuan a/l Pang,S2025681477,yu.xuan.pang@student.gmi.edu.my,Male,2004-02-20,student
+Xin Yi a/p Yeo,S2025763722,xin.yi.yeo2@student.gmi.edu.my,Female,2006-07-02,student
+Hao a/l Yap,T2025126864,hao.yap@tto.gmi.edu.my,Male,1979-05-02,TTO
+Irdina binti Saad,S2025224785,irdina.saad@student.gmi.edu.my,Female,2003-10-16,student
+Haikal bin Shah,S2025439668,haikal.shah@student.gmi.edu.my,Male,2004-08-17,student
+Meera a/p Murugan,S2025837730,meera.murugan@student.gmi.edu.my,Female,2006-02-02,student
+Harith bin Kamal,S2025042843,harith.kamal@student.gmi.edu.my,Male,2006-05-23,student
+Arif bin Hussein,S2025911444,arif.hussein@student.gmi.edu.my,Male,2003-09-09,student
+Suresh a/l Subramaniam,S2025879028,suresh.subramaniam3@student.gmi.edu.my,Male,2004-07-15,student
+Mira a/p Raman,S2025252446,mira.raman2@student.gmi.edu.my,Female,2004-04-09,student
+Shalini a/p Rangasamy,S2025251043,shalini.rangasamy@student.gmi.edu.my,Female,2000-10-23,student
+Yan Yi a/p Pang,S2025194248,yan.yi.pang@student.gmi.edu.my,Female,2003-01-16,student
+Yu Xuan a/l Low,S2025745522,yu.xuan.low@student.gmi.edu.my,Male,2006-01-15,student
+Hao a/l Chia,S2025665446,hao.chia@student.gmi.edu.my,Male,2007-01-06,student
+Mei Ling a/p Goh,S2025494983,mei.ling.goh@student.gmi.edu.my,Female,2007-08-31,student
+Jia Hao a/l Chai,S2025797100,jia.hao.chai@student.gmi.edu.my,Male,2005-12-22,student
+Yusuf bin Hassan,S2025027783,yusuf.hassan@student.gmi.edu.my,Male,2004-10-06,student
+Prakash a/l Muthu,S2025318342,prakash.muthu@student.gmi.edu.my,Male,2002-02-24,student
+Vijay a/l Subramaniam,F2025981596,vijay.subramaniam@staff.gmi.edu.my,Male,1994-10-14,staff
+Khadijah binti Othman,S2025683815,khadijah.othman@student.gmi.edu.my,Female,2001-04-14,student
+Ming Jie a/l Goh,S2025749258,ming.jie.goh2@student.gmi.edu.my,Male,2003-04-29,student
+Zikri bin Yahya,S2025073190,zikri.yahya@student.gmi.edu.my,Male,2002-06-11,student
+Ahmad bin Ali,T2025856241,ahmad.ali@tto.gmi.edu.my,Male,1987-04-02,TTO
+Zafran bin Kamal,S2025836456,zafran.kamal@student.gmi.edu.my,Male,2003-10-11,student
+Anand a/l Raman,S2025748885,anand.raman3@student.gmi.edu.my,Male,2002-05-16,student
+Maisarah binti Mahmud,S2025634194,maisarah.mahmud@student.gmi.edu.my,Female,2002-06-30,student
+Sabrina binti Halimi,S2025611672,sabrina.halimi@student.gmi.edu.my,Female,2006-12-31,student
+Arif bin Abdullah,S2025598419,arif.abdullah@student.gmi.edu.my,Male,2001-04-29,student
+Wei Han a/l Chen,S2025592388,wei.han.chen@student.gmi.edu.my,Male,2000-10-06,student
+Talha bin Saad,T2025848126,talha.saad@tto.gmi.edu.my,Male,1995-11-02,TTO
+Li Wei a/p Wong,S2025187650,li.wei.wong3@student.gmi.edu.my,Female,2001-08-06,student
+Yee Ling a/p Low,S2025740626,yee.ling.low@student.gmi.edu.my,Female,2001-08-14,student
+Ahmad bin Talib,S2025707816,ahmad.talib@student.gmi.edu.my,Male,2001-09-14,student
+Sabrina binti Osman,S2025895948,sabrina.osman@student.gmi.edu.my,Female,2001-08-16,student
+Khairul bin Jamal,F2025727397,khairul.jamal@staff.gmi.edu.my,Male,1991-10-11,staff
+Wei Han a/l Chen,S2025594152,wei.han.chen2@student.gmi.edu.my,Male,2004-12-26,student
+Xue Ting a/p Tee,S2025523507,xue.ting.tee2@student.gmi.edu.my,Female,2002-08-17,student
+Zi Ying a/p Lee,F2025875796,zi.ying.lee@staff.gmi.edu.my,Female,1996-07-07,staff
+Vijay a/l Murugan,S2025111349,vijay.murugan@student.gmi.edu.my,Male,2006-05-03,student
+Haris bin Yahya,S2025433155,haris.yahya@student.gmi.edu.my,Male,2000-02-15,student
+Alya binti Karim,F2025219173,alya.karim@staff.gmi.edu.my,Female,1978-04-12,staff
+Shalini a/p Rangasamy,S2025913952,shalini.rangasamy2@student.gmi.edu.my,Female,2007-06-14,student
+Deepa a/p Krishnan,S2025007929,deepa.krishnan@student.gmi.edu.my,Female,2001-05-09,student
+Aina binti Ibrahim,S2025548291,aina.ibrahim@student.gmi.edu.my,Female,2006-04-17,student
+Asya a/p Murugan,T2025407639,asya.murugan@tto.gmi.edu.my,Female,1983-05-12,TTO
+Ming Jie a/l Chai,T2025356681,ming.jie.chai@tto.gmi.edu.my,Male,1975-02-28,TTO
+Mani a/l Rangasamy,T2025083291,mani.rangasamy@tto.gmi.edu.my,Male,1975-11-13,TTO
+Asya a/p Raman,S2025486393,asya.raman2@student.gmi.edu.my,Female,2006-04-14,student
+Mira a/p Venkatesh,S2025830064,mira.venkatesh@student.gmi.edu.my,Female,2002-08-04,student
+Raja a/l Murugan,S2025037617,raja.murugan2@student.gmi.edu.my,Male,2001-05-26,student
+Najwa binti Saad,S2025196978,najwa.saad@student.gmi.edu.my,Female,2006-06-14,student
+Fatin binti Jamal,S2025939039,fatin.jamal@student.gmi.edu.my,Female,2001-05-11,student
+Mei Ling a/p Chong,S2025947069,mei.ling.chong2@student.gmi.edu.my,Female,2004-09-12,student
+Anita a/p Balakrishnan,S2025676119,anita.balakrishnan2@student.gmi.edu.my,Female,2003-07-24,student
+Nalini a/p Rangasamy,S2025498546,nalini.rangasamy@student.gmi.edu.my,Female,2001-04-06,student
+Li Wei a/p Tee,T2025603033,li.wei.tee@tto.gmi.edu.my,Female,1994-02-01,TTO
+Aina binti Shah,S2025629670,aina.shah@student.gmi.edu.my,Female,2007-10-16,student
+Yu Xuan a/l Phang,T2025219018,yu.xuan.phang@tto.gmi.edu.my,Male,1975-12-02,TTO
+Mira a/p Raman,S2025770225,mira.raman3@student.gmi.edu.my,Female,2000-11-30,student
+Qistina binti Nasir,S2025342665,qistina.nasir@student.gmi.edu.my,Female,2002-09-30,student
+Wei Jian a/l Lim,S2025386803,wei.jian.lim@student.gmi.edu.my,Male,2004-11-07,student
+Thaqif bin Zainal,S2025740423,thaqif.zainal2@student.gmi.edu.my,Male,2007-08-31,student
+Wei Jian a/l Goh,S2025543449,wei.jian.goh@student.gmi.edu.my,Male,2006-03-08,student
+Batrisyia binti Majid,S2025240438,batrisyia.majid@student.gmi.edu.my,Female,2001-03-03,student
+Qin Yi a/p Chong,S2025136226,qin.yi.chong3@student.gmi.edu.my,Female,2002-07-17,student
+Wei Jian a/l Koh,S2025629716,wei.jian.koh@student.gmi.edu.my,Male,2006-03-18,student
+Zubair bin Rahim,S2025110424,zubair.rahim@student.gmi.edu.my,Male,2004-08-31,student
+Faiz bin Mansor,S2025258696,faiz.mansor@student.gmi.edu.my,Male,2005-03-20,student
+Ming Jie a/l Liew,S2025120352,ming.jie.liew@student.gmi.edu.my,Male,2005-03-31,student
+Harith bin Salim,S2025575647,harith.salim@student.gmi.edu.my,Male,2000-08-25,student
+Arun a/l Muthu,S2025218015,arun.muthu@student.gmi.edu.my,Male,2004-09-16,student
+Anita a/p Venkatesh,S2025224261,anita.venkatesh3@student.gmi.edu.my,Female,2001-04-20,student
+Jia Yi a/p Chai,S2025145535,jia.yi.chai@student.gmi.edu.my,Female,2007-08-18,student
+Ming Jie a/l Wong,S2025563306,ming.jie.wong2@student.gmi.edu.my,Male,2001-11-28,student
+Han Bin a/l Yeo,T2025155823,han.yeo@tto.gmi.edu.my,Male,1983-11-30,TTO
+Luqman bin Hashim,S2025959203,luqman.hashim@student.gmi.edu.my,Male,2005-12-06,student
+Wei Jian a/l Yap,S2025096318,wei.jian.yap2@student.gmi.edu.my,Male,2005-11-14,student
+Farah binti Mahmud,T2025569858,farah.mahmud@tto.gmi.edu.my,Female,1989-07-03,TTO
+Safwan bin Ali,S2025957393,safwan.ali@student.gmi.edu.my,Male,2000-04-02,student
+Kavita a/p Subramaniam,S2025160135,kavita.subramaniam3@student.gmi.edu.my,Female,2002-05-03,student
+Wei Jian a/l Liew,T2025132982,wei.jian.liew@tto.gmi.edu.my,Male,1983-02-13,TTO
+Zafran bin Salleh,F2025017179,zafran.salleh@staff.gmi.edu.my,Male,1997-11-19,staff
+Iqbal bin Noor,S2025137246,iqbal.noor@student.gmi.edu.my,Male,2006-02-08,student
+Zhi Yang a/l Low,S2025901432,zhi.yang.low@student.gmi.edu.my,Male,2002-11-05,student
+Khadijah binti Hussein,F2025740152,khadijah.hussein2@staff.gmi.edu.my,Female,1978-04-18,staff
+Mani a/l Balakrishnan,S2025063903,mani.balakrishnan2@student.gmi.edu.my,Male,2006-11-06,student
+Han Bin a/l Tan,S2025865864,han.tan2@student.gmi.edu.my,Male,2001-03-10,student
+Rafiq bin Othman,S2025662468,rafiq.othman@student.gmi.edu.my,Male,2001-01-26,student
+Meera a/p Gopal,T2025135352,meera.gopal@tto.gmi.edu.my,Female,1989-07-28,TTO
+Fatin binti Ismail,S2025084902,fatin.ismail@student.gmi.edu.my,Female,2007-10-25,student
+Karthik a/l Perumal,S2025963231,karthik.perumal4@student.gmi.edu.my,Male,2004-10-26,student
+Li Wei a/p Chai,S2025268209,li.wei.chai2@student.gmi.edu.my,Female,2005-05-02,student
+Prakash a/l Perumal,S2025236097,prakash.perumal3@student.gmi.edu.my,Male,2005-01-31,student
+Hui Xin a/p Lim,S2025543461,hui.xin.lim@student.gmi.edu.my,Female,2006-06-24,student
+Anusha a/p Venkatesh,S2025391396,anusha.venkatesh2@student.gmi.edu.my,Female,2003-11-30,student
+Zulaikha binti Aziz,S2025568658,zulaikha.aziz@student.gmi.edu.my,Female,2007-05-18,student
+Suresh a/l Balakrishnan,S2025794078,suresh.balakrishnan2@student.gmi.edu.my,Male,2000-12-25,student
+Iqbal bin Abdullah,S2025575289,iqbal.abdullah@student.gmi.edu.my,Male,2005-04-25,student
+Saravanan a/l Gopal,S2025078167,saravanan.gopal4@student.gmi.edu.my,Male,2001-06-15,student
+Ming Jie a/l Koh,S2025990133,ming.jie.koh2@student.gmi.edu.my,Male,2004-12-07,student
+Murali a/l Venkatesh,T2025737703,murali.venkatesh@tto.gmi.edu.my,Male,1982-01-10,TTO
+Naufal bin Mahmud,S2025752702,naufal.mahmud@student.gmi.edu.my,Male,2000-12-30,student
+Muaz bin Bakar,S2025252417,muaz.bakar@student.gmi.edu.my,Male,2000-02-12,student
+Divya a/p Gopal,S2025784379,divya.gopal@student.gmi.edu.my,Female,2006-05-21,student
+Priya a/p Muthu,S2025172338,priya.muthu3@student.gmi.edu.my,Female,2001-12-15,student
+Sarimah binti Yusof,S2025591829,sarimah.yusof@student.gmi.edu.my,Female,2000-01-22,student
+Anita a/p Perumal,S2025274155,anita.perumal@student.gmi.edu.my,Female,2001-01-07,student
+Murali a/l Krishnan,S2025273653,murali.krishnan@student.gmi.edu.my,Male,2002-07-23,student
+Murali a/l Perumal,T2025106751,murali.perumal@tto.gmi.edu.my,Male,1990-01-01,TTO
+Zikri bin Majid,S2025748190,zikri.majid@student.gmi.edu.my,Male,2006-04-18,student
+Balqis binti Hashim,S2025258382,balqis.hashim@student.gmi.edu.my,Female,2002-06-02,student
+Rania binti Talib,S2025555724,rania.talib@student.gmi.edu.my,Female,2001-04-20,student
+Murali a/l Gopal,T2025406157,murali.gopal@tto.gmi.edu.my,Male,1980-04-14,TTO
+Zara binti Ali,S2025379657,zara.ali@student.gmi.edu.my,Female,2004-03-20,student
+Ramesh a/l Rangasamy,S2025420215,ramesh.rangasamy@student.gmi.edu.my,Male,2001-08-19,student
+Li Wei a/p Ng,S2025368087,li.wei.ng@student.gmi.edu.my,Female,2002-03-31,student
+Suresh a/l Rangasamy,S2025956113,suresh.rangasamy@student.gmi.edu.my,Male,2007-11-14,student
+Rania binti Hashim,S2025372798,rania.hashim@student.gmi.edu.my,Female,2001-06-17,student
+Thaqif bin Jamal,S2025620711,thaqif.jamal@student.gmi.edu.my,Male,2005-07-01,student
+Yu Xuan a/l Tee,S2025661764,yu.xuan.tee@student.gmi.edu.my,Male,2006-04-02,student
+Izzah binti Ahmad,S2025342459,izzah.ahmad@student.gmi.edu.my,Female,2005-09-26,student
+Li Wei a/p Wong,S2025681793,li.wei.wong4@student.gmi.edu.my,Female,2007-08-18,student
+Yu Xuan a/l Yap,S2025837926,yu.xuan.yap@student.gmi.edu.my,Male,2000-05-13,student
+Mani a/l Balakrishnan,S2025243749,mani.balakrishnan3@student.gmi.edu.my,Male,2001-09-24,student
+Yee Ling a/p Chen,S2025647311,yee.ling.chen2@student.gmi.edu.my,Female,2006-01-29,student
+Lakshmi a/p Muthu,S2025082677,lakshmi.muthu3@student.gmi.edu.my,Female,2006-01-18,student
+Prakash a/l Murugan,S2025715281,prakash.murugan2@student.gmi.edu.my,Male,2003-10-10,student
+Jia Hao a/l Chong,S2025437693,jia.hao.chong@student.gmi.edu.my,Male,2005-04-20,student
+Jun Wei a/l Chong,S2025565237,jun.wei.chong@student.gmi.edu.my,Male,2001-11-15,student
+Latifah binti Razali,S2025063894,latifah.razali@student.gmi.edu.my,Female,2005-08-24,student
+Zarina binti Othman,S2025930380,zarina.othman@student.gmi.edu.my,Female,2006-04-30,student
+Xin Yi a/p Yap,S2025095048,xin.yi.yap3@student.gmi.edu.my,Female,2007-05-01,student
+Jun Wei a/l Lim,S2025845759,jun.wei.lim@student.gmi.edu.my,Male,2003-09-23,student
+Kavita a/p Perumal,S2025735601,kavita.perumal@student.gmi.edu.my,Female,2007-01-28,student
+Kamil bin Shukri,T2025851844,kamil.shukri@tto.gmi.edu.my,Male,1992-08-21,TTO
+Iqbal bin Rashid,S2025265006,iqbal.rashid@student.gmi.edu.my,Male,2003-05-04,student
+Zi Hao a/l Chong,S2025640368,zi.hao.chong@student.gmi.edu.my,Male,2006-01-16,student
+Jasmine binti Zain,S2025911844,jasmine.zain@student.gmi.edu.my,Female,2003-07-05,student
+Ai Ling a/p Goh,S2025204446,ai.ling.goh@student.gmi.edu.my,Female,2004-11-24,student
+Deepa a/p Venkatesh,S2025739287,deepa.venkatesh@student.gmi.edu.my,Female,2001-10-28,student
+Li Wei a/p Chin,S2025783781,li.wei.chin@student.gmi.edu.my,Female,2005-06-28,student
+Zhi Yang a/l Tee,S2025796243,zhi.yang.tee2@student.gmi.edu.my,Male,2003-05-15,student
+Jun Wei a/l Chin,T2025872427,jun.wei.chin@tto.gmi.edu.my,Male,1991-01-26,TTO
+Taufiq bin Halimi,S2025139149,taufiq.halimi2@student.gmi.edu.my,Male,2004-12-21,student
+Pei Wen a/p Goh,F2025039055,pei.wen.goh@staff.gmi.edu.my,Female,1991-04-15,staff
+Ramesh a/l Muthu,S2025374126,ramesh.muthu4@student.gmi.edu.my,Male,2007-05-23,student
+Zi Ying a/p Teh,S2025603704,zi.ying.teh@student.gmi.edu.my,Female,2001-09-28,student
+Hana binti Ahmad,S2025415155,hana.ahmad@student.gmi.edu.my,Female,2007-08-24,student
+Hao a/l Yeo,S2025189976,hao.yeo2@student.gmi.edu.my,Male,2006-12-28,student
+Kai Wen a/l Chin,S2025335139,kai.wen.chin@student.gmi.edu.my,Male,2007-03-17,student
+Shafiqah binti Mansor,T2025533359,shafiqah.mansor@tto.gmi.edu.my,Female,1984-10-17,TTO
+Arif bin Shah,S2025928065,arif.shah@student.gmi.edu.my,Male,2002-06-27,student
+Anusha a/p Muthu,S2025650545,anusha.muthu@student.gmi.edu.my,Female,2007-11-13,student
+Qin Yi a/p Teh,S2025495491,qin.yi.teh@student.gmi.edu.my,Female,2006-10-28,student
+Ahmad bin Latif,S2025682440,ahmad.latif@student.gmi.edu.my,Male,2006-09-12,student
+Shalini a/p Raman,S2025529371,shalini.raman4@student.gmi.edu.my,Female,2007-01-12,student
+Jia Yi a/p Lim,S2025409914,jia.yi.lim3@student.gmi.edu.my,Female,2007-05-11,student
+Liang a/l Phang,S2025773657,liang.phang3@student.gmi.edu.my,Male,2005-09-23,student
+Liang a/l Phang,S2025297906,liang.phang4@student.gmi.edu.my,Male,2004-12-01,student
+Li Wei a/p Chai,S2025165328,li.wei.chai3@student.gmi.edu.my,Female,2005-09-15,student
+Ahmad bin Nawawi,S2025341190,ahmad.nawawi@student.gmi.edu.my,Male,2004-02-12,student
+Rafiq bin Rahman,S2025780277,rafiq.rahman@student.gmi.edu.my,Male,2002-03-31,student
+Suresh a/l Murugan,S2025263021,suresh.murugan2@student.gmi.edu.my,Male,2005-10-17,student
+Khadijah binti Sulaiman,S2025239931,khadijah.sulaiman@student.gmi.edu.my,Female,2004-11-09,student
+Farhan bin Basir,S2025677752,farhan.basir@student.gmi.edu.my,Male,2002-04-03,student
+Naufal bin Salim,S2025490279,naufal.salim@student.gmi.edu.my,Male,2005-02-16,student
+Khai Ming a/l Tee,S2025583451,khai.ming.tee@student.gmi.edu.my,Male,2006-08-30,student
+Lakshmi a/p Rangasamy,F2025527094,lakshmi.rangasamy@staff.gmi.edu.my,Female,1986-04-22,staff
+Anita a/p Rangasamy,S2025970080,anita.rangasamy3@student.gmi.edu.my,Female,2006-04-01,student
+Vijay a/l Venkatesh,S2025285693,vijay.venkatesh3@student.gmi.edu.my,Male,2004-05-16,student
+Shalini a/p Subramaniam,S2025458407,shalini.subramaniam2@student.gmi.edu.my,Female,2007-07-21,student
+Yee Ling a/p Chia,S2025568406,yee.ling.chia@student.gmi.edu.my,Female,2001-11-10,student
+Pei Wen a/p Teh,S2025019783,pei.wen.teh2@student.gmi.edu.my,Female,2001-03-10,student
+Liang a/l Ng,S2025325455,liang.ng2@student.gmi.edu.my,Male,2006-07-09,student
+Arun a/l Rangasamy,S2025213489,arun.rangasamy5@student.gmi.edu.my,Male,2007-06-10,student
+Deepa a/p Rangasamy,T2025794464,deepa.rangasamy@tto.gmi.edu.my,Female,1982-03-17,TTO
+Murali a/l Raman,S2025887016,murali.raman4@student.gmi.edu.my,Male,2006-03-05,student
+Hana binti Nawawi,S2025679627,hana.nawawi@student.gmi.edu.my,Female,2005-09-29,student
+Raja a/l Krishnan,S2025032715,raja.krishnan3@student.gmi.edu.my,Male,2001-11-25,student
+Shalini a/p Subramaniam,S2025103377,shalini.subramaniam3@student.gmi.edu.my,Female,2001-11-02,student
+Mei Ling a/p Chong,S2025813062,mei.ling.chong3@student.gmi.edu.my,Female,2005-05-10,student
+Arun a/l Muthu,S2025519867,arun.muthu2@student.gmi.edu.my,Male,2005-07-20,student
+Jun Wei a/l Chai,S2025611093,jun.wei.chai@student.gmi.edu.my,Male,2003-08-17,student
+Kumar a/l Muthu,S2025660656,kumar.muthu4@student.gmi.edu.my,Male,2007-08-06,student
+Saravanan a/l Muthu,S2025705224,saravanan.muthu@student.gmi.edu.my,Male,2002-01-05,student
+Amir bin Ridzuan,S2025928966,amir.ridzuan@student.gmi.edu.my,Male,2005-04-30,student
+Asya a/p Rangasamy,S2025647735,asya.rangasamy@student.gmi.edu.my,Female,2006-02-22,student
+Syafiq bin Kamal,S2025364308,syafiq.kamal2@student.gmi.edu.my,Male,2005-03-14,student
+Meera a/p Rangasamy,S2025587908,meera.rangasamy2@student.gmi.edu.my,Female,2002-03-05,student
+Zi Ying a/p Ng,S2025614111,zi.ying.ng2@student.gmi.edu.my,Female,2001-02-04,student
+Raja a/l Subramaniam,T2025808665,raja.subramaniam@tto.gmi.edu.my,Male,1978-11-11,TTO
+Anusha a/p Murugan,S2025577584,anusha.murugan2@student.gmi.edu.my,Female,2004-10-12,student
+Harith bin Razali,S2025215595,harith.razali@student.gmi.edu.my,Male,2005-05-13,student
+Qin Yi a/p Tan,F2025149837,qin.yi.tan@staff.gmi.edu.my,Female,1993-07-02,staff
+Karthik a/l Venkatesh,T2025707633,karthik.venkatesh@tto.gmi.edu.my,Male,1980-12-08,TTO
+Hasif bin Rashid,S2025567589,hasif.rashid@student.gmi.edu.my,Male,2004-04-04,student
+Latifah binti Bakar,S2025826464,latifah.bakar@student.gmi.edu.my,Female,2000-04-26,student
+Li Wei a/p Lim,T2025158544,li.wei.lim@tto.gmi.edu.my,Female,1986-07-10,TTO
+Xin Yi a/p Tan,S2025440611,xin.yi.tan3@student.gmi.edu.my,Female,2006-03-17,student
+Lakshmi a/p Raman,S2025329447,lakshmi.raman2@student.gmi.edu.my,Female,2005-11-28,student
+Yusuf bin Sabri,S2025494368,yusuf.sabri@student.gmi.edu.my,Male,2005-07-22,student
+Vijay a/l Muthu,S2025896002,vijay.muthu2@student.gmi.edu.my,Male,2002-02-10,student
+Prakash a/l Krishnan,S2025640800,prakash.krishnan@student.gmi.edu.my,Male,2004-08-20,student
+Raja a/l Murugan,S2025705368,raja.murugan3@student.gmi.edu.my,Male,2006-02-24,student
+Amir bin Ali,S2025413792,amir.ali@student.gmi.edu.my,Male,2004-11-13,student
+Aina binti Sabri,S2025335290,aina.sabri@student.gmi.edu.my,Female,2002-11-17,student
+Vijay a/l Subramaniam,S2025306565,vijay.subramaniam@student.gmi.edu.my,Male,2000-12-24,student
+Shafiqah binti Yahya,S2025004108,shafiqah.yahya@student.gmi.edu.my,Female,2004-11-05,student
+Xin Yi a/p Chen,S2025292928,xin.yi.chen@student.gmi.edu.my,Female,2002-07-10,student
+Rania binti Ibrahim,T2025350556,rania.ibrahim@tto.gmi.edu.my,Female,1994-06-29,TTO
+Hasif bin Noor,S2025989061,hasif.noor@student.gmi.edu.my,Male,2007-02-27,student
+Vijay a/l Perumal,S2025061567,vijay.perumal@student.gmi.edu.my,Male,2005-11-02,student
+Deepa a/p Gopal,S2025255886,deepa.gopal5@student.gmi.edu.my,Female,2006-10-16,student
+Mei Ling a/p Ng,S2025276318,mei.ling.ng@student.gmi.edu.my,Female,2002-07-06,student
+Xin Yi a/p Chin,S2025488664,xin.yi.chin3@student.gmi.edu.my,Female,2006-10-13,student
+Qin Yi a/p Koh,S2025064257,qin.yi.koh@student.gmi.edu.my,Female,2007-05-20,student
+Hui Xin a/p Pang,S2025613713,hui.xin.pang@student.gmi.edu.my,Female,2003-04-16,student
+Shalini a/p Subramaniam,S2025893823,shalini.subramaniam4@student.gmi.edu.my,Female,2006-07-31,student
+Hafiz bin Halimi,S2025641969,hafiz.halimi@student.gmi.edu.my,Male,2002-01-27,student
+Thaqif bin Hussein,S2025870895,thaqif.hussein@student.gmi.edu.my,Male,2007-03-08,student
+Putri binti Jamal,S2025464648,putri.jamal@student.gmi.edu.my,Female,2007-08-06,student
+Pei Wen a/p Low,S2025244176,pei.wen.low@student.gmi.edu.my,Female,2000-03-15,student
+Nalini a/p Raman,S2025097474,nalini.raman@student.gmi.edu.my,Female,2004-06-03,student
+Yu Xuan a/l Goh,S2025160351,yu.xuan.goh@student.gmi.edu.my,Male,2004-07-30,student
+Saravanan a/l Venkatesh,S2025489176,saravanan.venkatesh2@student.gmi.edu.my,Male,2006-04-21,student
+Wei Jian a/l Pang,S2025652418,wei.jian.pang@student.gmi.edu.my,Male,2001-06-24,student
+Aqilah binti Hashim,S2025580590,aqilah.hashim@student.gmi.edu.my,Female,2004-03-18,student
+Li Wei a/p Yeo,S2025971620,li.wei.yeo@student.gmi.edu.my,Female,2004-07-15,student
+Pei Wen a/p Phang,S2025091520,pei.wen.phang@student.gmi.edu.my,Female,2007-05-02,student
+Iqbal bin Osman,S2025116528,iqbal.osman@student.gmi.edu.my,Male,2000-10-11,student
+Anita a/p Muthu,T2025874161,anita.muthu@tto.gmi.edu.my,Female,1990-04-14,TTO
+Xin Yi a/p Tan,T2025440034,xin.yi.tan@tto.gmi.edu.my,Female,1993-06-25,TTO
+Jun Wei a/l Phang,S2025806382,jun.wei.phang2@student.gmi.edu.my,Male,2001-04-22,student
+Saravanan a/l Venkatesh,S2025236555,saravanan.venkatesh3@student.gmi.edu.my,Male,2001-11-15,student
+Zikri bin Osman,S2025525205,zikri.osman@student.gmi.edu.my,Male,2007-04-18,student
+Amir bin Ridzuan,S2025782773,amir.ridzuan2@student.gmi.edu.my,Male,2006-04-03,student
+Murali a/l Subramaniam,T2025631115,murali.subramaniam@tto.gmi.edu.my,Male,1985-02-10,TTO
+Priya a/p Muthu,S2025714204,priya.muthu4@student.gmi.edu.my,Female,2002-03-07,student
+Lakshmi a/p Balakrishnan,S2025560247,lakshmi.balakrishnan4@student.gmi.edu.my,Female,2003-01-15,student
+Ridwan bin Hassan,S2025458067,ridwan.hassan@student.gmi.edu.my,Male,2002-08-28,student
+Ai Ling a/p Phang,S2025649433,ai.ling.phang3@student.gmi.edu.my,Female,2006-11-16,student
+Khai Ming a/l Chai,S2025414775,khai.ming.chai@student.gmi.edu.my,Male,2002-05-09,student
+Zubair bin Halim,S2025865951,zubair.halim@student.gmi.edu.my,Male,2002-12-31,student
+Yusuf bin Sulaiman,T2025331500,yusuf.sulaiman@tto.gmi.edu.my,Male,1991-08-06,TTO
+Qin Yi a/p Goh,S2025527004,qin.yi.goh@student.gmi.edu.my,Female,2002-04-28,student
+Li Wei a/p Phang,S2025827077,li.wei.phang2@student.gmi.edu.my,Female,2004-09-03,student
+Balqis binti Hussein,S2025955986,balqis.hussein@student.gmi.edu.my,Female,2007-11-18,student
+Aisyah binti Yusof,S2025905425,aisyah.yusof@student.gmi.edu.my,Female,2001-04-02,student
+Shalini a/p Muthu,S2025194045,shalini.muthu2@student.gmi.edu.my,Female,2002-01-17,student
+Wei Jian a/l Lim,F2025307134,wei.jian.lim@staff.gmi.edu.my,Male,1984-06-02,staff
+Kumar a/l Murugan,S2025918149,kumar.murugan@student.gmi.edu.my,Male,2006-01-19,student
+Jasmine binti Rashid,S2025124042,jasmine.rashid@student.gmi.edu.my,Female,2007-10-03,student
+Zi Hao a/l Chia,S2025663748,zi.hao.chia2@student.gmi.edu.my,Male,2007-02-03,student
+Elena binti Ismail,T2025254373,elena.ismail@tto.gmi.edu.my,Female,1977-07-23,TTO
+Priya a/p Balakrishnan,S2025945799,priya.balakrishnan5@student.gmi.edu.my,Female,2000-07-07,student
+Umaira binti Kamal,S2025355118,umaira.kamal@student.gmi.edu.my,Female,2003-03-24,student
+Shafiqah binti Zainal,F2025409402,shafiqah.zainal@staff.gmi.edu.my,Female,1989-02-03,staff
+Muaz bin Zainal,S2025256106,muaz.zainal@student.gmi.edu.my,Male,2000-10-02,student
+Zubair bin Ridzuan,S2025840176,zubair.ridzuan@student.gmi.edu.my,Male,2000-08-25,student
+Zi Hao a/l Chong,S2025039701,zi.hao.chong2@student.gmi.edu.my,Male,2006-03-31,student
+Kumar a/l Murugan,S2025763501,kumar.murugan2@student.gmi.edu.my,Male,2007-01-22,student
+Prakash a/l Perumal,S2025573666,prakash.perumal4@student.gmi.edu.my,Male,2005-07-24,student
+Maryam binti Ismail,F2025936695,maryam.ismail@staff.gmi.edu.my,Female,1999-12-03,staff
+Kamil bin Halimi,S2025777532,kamil.halimi@student.gmi.edu.my,Male,2005-10-16,student
+Xue Ting a/p Ng,T2025919204,xue.ting.ng@tto.gmi.edu.my,Female,1976-05-04,TTO
+Liang a/l Chia,S2025584467,liang.chia3@student.gmi.edu.my,Male,2002-03-15,student
+Jia Hao a/l Chen,S2025272483,jia.hao.chen@student.gmi.edu.my,Male,2006-05-02,student
+Ai Ling a/p Goh,F2025727236,ai.ling.goh@staff.gmi.edu.my,Female,1980-03-22,staff
+Murali a/l Krishnan,S2025730064,murali.krishnan2@student.gmi.edu.my,Male,2006-04-02,student
+Karthik a/l Krishnan,S2025151691,karthik.krishnan2@student.gmi.edu.my,Male,2006-10-18,student
+Zubair bin Ali,S2025965252,zubair.ali@student.gmi.edu.my,Male,2000-04-12,student
+Elena binti Azman,S2025073246,elena.azman@student.gmi.edu.my,Female,2001-01-02,student
+Ahmad bin Kamal,S2025830322,ahmad.kamal@student.gmi.edu.my,Male,2006-09-11,student
+Ai Ling a/p Wong,T2025423594,ai.ling.wong@tto.gmi.edu.my,Female,1990-01-01,TTO
+Zulaikha binti Saad,S2025637937,zulaikha.saad@student.gmi.edu.my,Female,2000-07-17,student
+Dina binti Zawawi,S2025762055,dina.zawawi@student.gmi.edu.my,Female,2004-09-29,student
+Mira a/p Balakrishnan,S2025848416,mira.balakrishnan2@student.gmi.edu.my,Female,2004-01-26,student
+Anita a/p Subramaniam,S2025287263,anita.subramaniam@student.gmi.edu.my,Female,2005-09-15,student
+Shalini a/p Venkatesh,S2025557614,shalini.venkatesh@student.gmi.edu.my,Female,2006-06-23,student
+Jia Yi a/p Chin,S2025029965,jia.yi.chin@student.gmi.edu.my,Female,2006-06-18,student
+Suresh a/l Balakrishnan,S2025783846,suresh.balakrishnan3@student.gmi.edu.my,Male,2001-03-17,student
+Mei Ling a/p Lee,S2025730001,mei.ling.lee2@student.gmi.edu.my,Female,2007-09-11,student
+Yan Yi a/p Pang,S2025850162,yan.yi.pang2@student.gmi.edu.my,Female,2005-07-27,student
+Saravanan a/l Muthu,S2025899091,saravanan.muthu2@student.gmi.edu.my,Male,2005-02-16,student
+Karthik a/l Subramaniam,S2025592773,karthik.subramaniam3@student.gmi.edu.my,Male,2000-03-14,student
+Taufiq bin Yusof,S2025760950,taufiq.yusof@student.gmi.edu.my,Male,2001-06-04,student
+Han Bin a/l Yap,S2025051094,han.yap@student.gmi.edu.my,Male,2007-01-01,student
+Faris bin Omar,S2025619268,faris.omar@student.gmi.edu.my,Male,2002-06-08,student
+Suresh a/l Krishnan,S2025655132,suresh.krishnan@student.gmi.edu.my,Male,2004-08-29,student
+Amir bin Hassan,S2025747830,amir.hassan@student.gmi.edu.my,Male,2000-06-23,student
+Zi Ying a/p Yap,T2025324635,zi.ying.yap@tto.gmi.edu.my,Female,1988-03-19,TTO
+Murali a/l Murugan,S2025072647,murali.murugan3@student.gmi.edu.my,Male,2007-09-06,student
+Saravanan a/l Subramaniam,T2025685934,saravanan.subramaniam@tto.gmi.edu.my,Male,1988-10-23,TTO
+Talha bin Halimi,S2025648904,talha.halimi@student.gmi.edu.my,Male,2002-07-15,student
+Arissa binti Rahim,S2025346012,arissa.rahim@student.gmi.edu.my,Female,2002-06-19,student
+Haikal bin Rahim,S2025091273,haikal.rahim@student.gmi.edu.my,Male,2006-05-16,student
+Jun Wei a/l Yeo,T2025700876,jun.wei.yeo@tto.gmi.edu.my,Male,1982-05-22,TTO
+Kai Wen a/l Low,S2025514463,kai.wen.low@student.gmi.edu.my,Male,2001-11-28,student
+Priya a/p Muthu,S2025181452,priya.muthu5@student.gmi.edu.my,Female,2005-02-11,student
+Zara binti Salim,S2025787542,zara.salim@student.gmi.edu.my,Female,2000-06-20,student
+Syazana binti Hamid,S2025946710,syazana.hamid@student.gmi.edu.my,Female,2001-03-29,student
+Nalini a/p Murugan,S2025078558,nalini.murugan2@student.gmi.edu.my,Female,2005-01-07,student
+Talha bin Majid,T2025395304,talha.majid@tto.gmi.edu.my,Male,1991-01-25,TTO
+Talha bin Rahman,S2025930144,talha.rahman@student.gmi.edu.my,Male,2001-10-25,student
+Han Bin a/l Koh,S2025528506,han.koh@student.gmi.edu.my,Male,2004-09-16,student
+Arissa binti Yahya,S2025351945,arissa.yahya@student.gmi.edu.my,Female,2001-06-25,student
+Mira a/p Balakrishnan,T2025112765,mira.balakrishnan2@tto.gmi.edu.my,Female,1991-10-22,TTO
+Mani a/l Balakrishnan,S2025676227,mani.balakrishnan4@student.gmi.edu.my,Male,2005-05-22,student
+Khairi bin Abdullah,S2025910929,khairi.abdullah@student.gmi.edu.my,Male,2005-04-29,student
+Safwan bin Halimi,T2025726342,safwan.halimi@tto.gmi.edu.my,Male,1984-05-10,TTO
+Sarimah binti Yusof,S2025708010,sarimah.yusof2@student.gmi.edu.my,Female,2003-07-27,student
+Asya a/p Subramaniam,S2025634769,asya.subramaniam@student.gmi.edu.my,Female,2001-02-22,student
+Nadia binti Noor,S2025346768,nadia.noor@student.gmi.edu.my,Female,2005-09-20,student
+Han Bin a/l Chen,S2025714579,han.chen@student.gmi.edu.my,Male,2001-06-25,student
+Kai Wen a/l Koh,S2025302624,kai.wen.koh3@student.gmi.edu.my,Male,2006-12-20,student
+Arun a/l Rangasamy,T2025588022,arun.rangasamy@tto.gmi.edu.my,Male,1991-03-23,TTO
+Prakash a/l Gopal,S2025500344,prakash.gopal2@student.gmi.edu.my,Male,2001-09-10,student
+Hana binti Latif,S2025645131,hana.latif@student.gmi.edu.my,Female,2006-02-26,student
+Murali a/l Rangasamy,S2025518756,murali.rangasamy4@student.gmi.edu.my,Male,2002-11-26,student
+Divya a/p Venkatesh,S2025144382,divya.venkatesh2@student.gmi.edu.my,Female,2006-12-08,student
+Li Wei a/p Koh,S2025708014,li.wei.koh2@student.gmi.edu.my,Female,2004-07-04,student
+Hao a/l Liew,S2025588747,hao.liew@student.gmi.edu.my,Male,2000-03-03,student
+Mani a/l Perumal,S2025086015,mani.perumal5@student.gmi.edu.my,Male,2004-08-24,student
+Saravanan a/l Rangasamy,F2025807163,saravanan.rangasamy@staff.gmi.edu.my,Male,1990-10-26,staff
+Zi Ying a/p Phang,S2025624659,zi.ying.phang@student.gmi.edu.my,Female,2000-06-27,student
+Vijay a/l Murugan,S2025710544,vijay.murugan2@student.gmi.edu.my,Male,2005-05-25,student
+Ming Jie a/l Tan,F2025099302,ming.jie.tan@staff.gmi.edu.my,Male,1984-11-09,staff
+Zi Hao a/l Chen,S2025514422,zi.hao.chen@student.gmi.edu.my,Male,2000-02-15,student
+Shalini a/p Muthu,S2025572816,shalini.muthu3@student.gmi.edu.my,Female,2002-02-25,student
+Meera a/p Perumal,S2025055413,meera.perumal2@student.gmi.edu.my,Female,2002-10-28,student
+Iqbal bin Sharif,S2025632702,iqbal.sharif@student.gmi.edu.my,Male,2003-04-22,student
+Vijay a/l Krishnan,S2025982998,vijay.krishnan@student.gmi.edu.my,Male,2004-01-06,student
+Anusha a/p Murugan,S2025818988,anusha.murugan3@student.gmi.edu.my,Female,2006-03-12,student
+Xue Ting a/p Tan,S2025676152,xue.ting.tan@student.gmi.edu.my,Female,2006-02-16,student
+Raja a/l Gopal,S2025018520,raja.gopal@student.gmi.edu.my,Male,2002-06-02,student
+Mani a/l Rangasamy,S2025608058,mani.rangasamy2@student.gmi.edu.my,Male,2004-08-14,student
+Ramesh a/l Muthu,S2025774115,ramesh.muthu5@student.gmi.edu.my,Male,2006-10-02,student
+Ridwan bin Halimi,T2025429428,ridwan.halimi@tto.gmi.edu.my,Male,1990-11-20,TTO
+Farah binti Jamil,S2025210382,farah.jamil@student.gmi.edu.my,Female,2000-01-22,student
+Suresh a/l Gopal,S2025811908,suresh.gopal3@student.gmi.edu.my,Male,2007-05-25,student
+Arissa binti Bakar,S2025531939,arissa.bakar@student.gmi.edu.my,Female,2000-06-15,student
+Iqbal bin Sulaiman,T2025476658,iqbal.sulaiman@tto.gmi.edu.my,Male,1991-04-05,TTO
+Priya a/p Balakrishnan,S2025904754,priya.balakrishnan6@student.gmi.edu.my,Female,2003-05-26,student
+Priya a/p Gopal,S2025121333,priya.gopal@student.gmi.edu.my,Female,2004-01-25,student
+Safwan bin Hashim,S2025850758,safwan.hashim@student.gmi.edu.my,Male,2002-08-30,student
+Iman binti Mahmud,S2025653702,iman.mahmud@student.gmi.edu.my,Female,2004-04-22,student
+Anand a/l Krishnan,S2025569365,anand.krishnan3@student.gmi.edu.my,Male,2003-01-05,student
+Zi Ying a/p Ng,T2025274249,zi.ying.ng@tto.gmi.edu.my,Female,1976-03-19,TTO
+Hui Xin a/p Lee,S2025085830,hui.xin.lee@student.gmi.edu.my,Female,2001-06-05,student
+Khai Ming a/l Chai,S2025145744,khai.ming.chai2@student.gmi.edu.my,Male,2004-07-26,student
+Mei Ling a/p Low,S2025866066,mei.ling.low2@student.gmi.edu.my,Female,2002-06-04,student
+Kavita a/p Subramaniam,S2025867411,kavita.subramaniam4@student.gmi.edu.my,Female,2000-12-15,student
+Syazana binti Yahya,S2025668942,syazana.yahya@student.gmi.edu.my,Female,2002-04-17,student
+Shafiqah binti Jamil,S2025725603,shafiqah.jamil@student.gmi.edu.my,Female,2006-10-27,student
+Han Bin a/l Lim,S2025211436,han.lim@student.gmi.edu.my,Male,2003-02-06,student
+Latifah binti Latif,S2025737322,latifah.latif@student.gmi.edu.my,Female,2007-10-20,student
+Naufal bin Hashim,S2025205728,naufal.hashim@student.gmi.edu.my,Male,2002-05-15,student
+Nurin binti Omar,F2025840824,nurin.omar@staff.gmi.edu.my,Female,1973-05-07,staff
+Fatin binti Zawawi,S2025008647,fatin.zawawi@student.gmi.edu.my,Female,2001-08-18,student
+Mani a/l Murugan,T2025444689,mani.murugan2@tto.gmi.edu.my,Male,1975-01-14,TTO
+Jia Hao a/l Yap,F2025460921,jia.hao.yap@staff.gmi.edu.my,Male,1997-08-18,staff
+Asya a/p Gopal,S2025072591,asya.gopal3@student.gmi.edu.my,Female,2007-07-13,student
+Khairi bin Nawawi,S2025537359,khairi.nawawi@student.gmi.edu.my,Male,2002-04-14,student
+Aqilah binti Osman,T2025210063,aqilah.osman@tto.gmi.edu.my,Female,1993-06-11,TTO
+Umaira binti Hamid,S2025260059,umaira.hamid@student.gmi.edu.my,Female,2006-06-14,student
+Haikal bin Hamid,S2025255909,haikal.hamid@student.gmi.edu.my,Male,2006-10-17,student
+Amir bin Latif,T2025671433,amir.latif@tto.gmi.edu.my,Male,1983-01-30,TTO
+Kai Wen a/l Ng,S2025707194,kai.wen.ng2@student.gmi.edu.my,Male,2007-06-25,student
+Shalini a/p Subramaniam,S2025654675,shalini.subramaniam5@student.gmi.edu.my,Female,2003-09-01,student
+Kai Wen a/l Yap,S2025679615,kai.wen.yap2@student.gmi.edu.my,Male,2001-09-17,student
+Kavita a/p Subramaniam,S2025568562,kavita.subramaniam5@student.gmi.edu.my,Female,2000-01-04,student
+Batrisyia binti Bakar,S2025650530,batrisyia.bakar@student.gmi.edu.my,Female,2001-10-24,student
+Ridwan bin Aziz,S2025770643,ridwan.aziz@student.gmi.edu.my,Male,2006-04-14,student
+Iman binti Zain,S2025757763,iman.zain@student.gmi.edu.my,Female,2003-01-14,student
+Nurin binti Mansor,S2025179809,nurin.mansor@student.gmi.edu.my,Female,2006-01-19,student
+Xin Yi a/p Lim,S2025596510,xin.yi.lim2@student.gmi.edu.my,Female,2000-09-20,student
+Mira a/p Gopal,S2025168673,mira.gopal2@student.gmi.edu.my,Female,2005-10-28,student
+Ming Jie a/l Phang,S2025542126,ming.jie.phang@student.gmi.edu.my,Male,2005-02-08,student
+Faris bin Jamal,T2025502590,faris.jamal@tto.gmi.edu.my,Male,1977-07-27,TTO
+Farah binti Zaki,F2025958339,farah.zaki@staff.gmi.edu.my,Female,1986-04-24,staff
+Raja a/l Perumal,S2025961266,raja.perumal2@student.gmi.edu.my,Male,2002-08-13,student
+Zarina binti Halim,S2025074117,zarina.halim@student.gmi.edu.my,Female,2005-11-02,student
+Mira a/p Muthu,S2025756860,mira.muthu2@student.gmi.edu.my,Female,2006-05-27,student
+Murali a/l Balakrishnan,T2025439174,murali.balakrishnan@tto.gmi.edu.my,Male,1975-12-12,TTO
+Zhi Yang a/l Yeo,S2025307647,zhi.yang.yeo2@student.gmi.edu.my,Male,2006-02-17,student
+Han Bin a/l Lim,S2025742882,han.lim2@student.gmi.edu.my,Male,2004-11-19,student
+Anand a/l Krishnan,S2025478079,anand.krishnan4@student.gmi.edu.my,Male,2003-08-13,student
+Muaz bin Yaacob,S2025194465,muaz.yaacob@student.gmi.edu.my,Male,2003-08-27,student
+Rafiq bin Zaki,S2025652458,rafiq.zaki@student.gmi.edu.my,Male,2004-12-22,student
+Anita a/p Rangasamy,S2025419140,anita.rangasamy4@student.gmi.edu.my,Female,2001-03-23,student
+Divya a/p Venkatesh,S2025670488,divya.venkatesh3@student.gmi.edu.my,Female,2001-03-25,student
+Jia Yi a/p Teh,T2025204774,jia.yi.teh@tto.gmi.edu.my,Female,1993-06-05,TTO
+Divya a/p Subramaniam,S2025323678,divya.subramaniam3@student.gmi.edu.my,Female,2001-07-18,student
+Nalini a/p Raman,S2025664773,nalini.raman2@student.gmi.edu.my,Female,2001-11-10,student
+Kavita a/p Murugan,S2025923677,kavita.murugan2@student.gmi.edu.my,Female,2004-03-20,student
+Zi Hao a/l Phang,S2025299063,zi.hao.phang@student.gmi.edu.my,Male,2005-02-10,student
+Zi Ying a/p Chen,S2025860249,zi.ying.chen@student.gmi.edu.my,Female,2001-05-30,student
+Deepa a/p Venkatesh,S2025870880,deepa.venkatesh2@student.gmi.edu.my,Female,2005-02-12,student
+Asya a/p Krishnan,S2025228897,asya.krishnan3@student.gmi.edu.my,Female,2006-04-27,student
+Kumar a/l Venkatesh,S2025668046,kumar.venkatesh@student.gmi.edu.my,Male,2001-10-20,student
+Vijay a/l Krishnan,S2025246254,vijay.krishnan2@student.gmi.edu.my,Male,2007-06-16,student
+Arun a/l Muthu,S2025339916,arun.muthu3@student.gmi.edu.my,Male,2000-05-23,student
+Mei Ling a/p Pang,S2025434313,mei.ling.pang@student.gmi.edu.my,Female,2002-07-02,student
+Arissa binti Ali,S2025146291,arissa.ali@student.gmi.edu.my,Female,2005-12-31,student
+Asya a/p Raman,S2025189229,asya.raman3@student.gmi.edu.my,Female,2007-11-09,student
+Yee Ling a/p Yeo,S2025763225,yee.ling.yeo@student.gmi.edu.my,Female,2003-11-08,student
+Talha bin Hashim,S2025251733,talha.hashim@student.gmi.edu.my,Male,2000-06-06,student
+Li Wei a/p Yap,S2025364491,li.wei.yap@student.gmi.edu.my,Female,2005-04-25,student
+Naufal bin Hashim,S2025232023,naufal.hashim2@student.gmi.edu.my,Male,2001-08-12,student
+Haris bin Rashid,S2025690268,haris.rashid@student.gmi.edu.my,Male,2005-11-26,student
+Taufiq bin Sani,F2025977270,taufiq.sani@staff.gmi.edu.my,Male,1973-05-10,staff
+Anand a/l Muthu,S2025793602,anand.muthu@student.gmi.edu.my,Male,2000-04-23,student
+Mira a/p Murugan,S2025819816,mira.murugan@student.gmi.edu.my,Female,2005-07-14,student
+Balqis binti Majid,S2025178267,balqis.majid@student.gmi.edu.my,Female,2007-08-29,student
+Xin Yi a/p Goh,S2025997207,xin.yi.goh2@student.gmi.edu.my,Female,2000-01-19,student
+Vijay a/l Murugan,S2025822053,vijay.murugan3@student.gmi.edu.my,Male,2007-02-25,student
+Jun Wei a/l Teh,S2025449056,jun.wei.teh2@student.gmi.edu.my,Male,2003-12-25,student
+Hasif bin Zainal,T2025101741,hasif.zainal@tto.gmi.edu.my,Male,1978-12-28,TTO
+Khai Ming a/l Yeo,S2025830723,khai.ming.yeo@student.gmi.edu.my,Male,2002-10-28,student
+Muaz bin Halimi,S2025501381,muaz.halimi@student.gmi.edu.my,Male,2003-04-22,student
+Mira a/p Krishnan,S2025553559,mira.krishnan@student.gmi.edu.my,Female,2004-11-30,student
+Mei Ling a/p Tee,S2025931316,mei.ling.tee3@student.gmi.edu.my,Female,2004-05-31,student
+Yee Ling a/p Teh,S2025409882,yee.ling.teh2@student.gmi.edu.my,Female,2007-01-20,student
+Arun a/l Balakrishnan,S2025486395,arun.balakrishnan@student.gmi.edu.my,Male,2002-07-02,student
+Mira a/p Murugan,T2025313107,mira.murugan@tto.gmi.edu.my,Female,1993-01-24,TTO
+Ming Jie a/l Chia,S2025664286,ming.jie.chia@student.gmi.edu.my,Male,2004-10-24,student
+Saravanan a/l Subramaniam,T2025340253,saravanan.subramaniam2@tto.gmi.edu.my,Male,1988-07-27,TTO
+Sarimah binti Hassan,S2025727546,sarimah.hassan@student.gmi.edu.my,Female,2001-05-22,student
+Meera a/p Rangasamy,F2025716928,meera.rangasamy@staff.gmi.edu.my,Female,1976-04-22,staff
+Mani a/l Rangasamy,S2025138360,mani.rangasamy3@student.gmi.edu.my,Male,2003-06-27,student
+Karthik a/l Raman,S2025993246,karthik.raman2@student.gmi.edu.my,Male,2003-11-01,student
+Saravanan a/l Balakrishnan,S2025700975,saravanan.balakrishnan3@student.gmi.edu.my,Male,2001-04-12,student
+Arif bin Noor,S2025626811,arif.noor@student.gmi.edu.my,Male,2007-11-03,student
+Ai Ling a/p Low,S2025704120,ai.ling.low@student.gmi.edu.my,Female,2006-11-16,student
+Khairul bin Shukri,S2025762815,khairul.shukri@student.gmi.edu.my,Male,2007-01-15,student
+Deepa a/p Venkatesh,F2025177338,deepa.venkatesh@staff.gmi.edu.my,Female,1972-01-30,staff
+Zi Ying a/p Pang,S2025151838,zi.ying.pang2@student.gmi.edu.my,Female,2004-11-15,student
+Hao a/l Yeo,S2025085522,hao.yeo3@student.gmi.edu.my,Male,2004-04-19,student
+Dina binti Noor,S2025553983,dina.noor@student.gmi.edu.my,Female,2005-02-14,student
+Nisa binti Noor,T2025374501,nisa.noor@tto.gmi.edu.my,Female,1992-10-11,TTO
+Hui Xin a/p Chin,S2025403885,hui.xin.chin@student.gmi.edu.my,Female,2002-08-26,student
+Murali a/l Gopal,S2025014889,murali.gopal2@student.gmi.edu.my,Male,2007-03-30,student
+Arun a/l Krishnan,S2025448647,arun.krishnan2@student.gmi.edu.my,Male,2004-03-02,student
+Aina binti Razali,F2025234564,aina.razali@staff.gmi.edu.my,Female,1994-11-10,staff
+Saravanan a/l Krishnan,S2025440989,saravanan.krishnan2@student.gmi.edu.my,Male,2000-06-17,student
+Nadia binti Saad,S2025729249,nadia.saad@student.gmi.edu.my,Female,2004-03-05,student
+Zafran bin Sharif,S2025533908,zafran.sharif@student.gmi.edu.my,Male,2005-05-07,student
+Liang a/l Liew,S2025415644,liang.liew2@student.gmi.edu.my,Male,2006-06-25,student
+Ramesh a/l Balakrishnan,S2025843860,ramesh.balakrishnan2@student.gmi.edu.my,Male,2000-05-21,student
+Ramesh a/l Balakrishnan,S2025071446,ramesh.balakrishnan3@student.gmi.edu.my,Male,2000-11-15,student
+Arun a/l Balakrishnan,S2025548549,arun.balakrishnan2@student.gmi.edu.my,Male,2000-05-12,student
+Mani a/l Rangasamy,S2025182717,mani.rangasamy4@student.gmi.edu.my,Male,2004-01-19,student
+Suresh a/l Raman,S2025470242,suresh.raman@student.gmi.edu.my,Male,2006-07-28,student
+Kavita a/p Venkatesh,S2025062730,kavita.venkatesh3@student.gmi.edu.my,Female,2002-05-08,student
+Maryam binti Hassan,T2025600692,maryam.hassan@tto.gmi.edu.my,Female,1994-03-12,TTO
+Zi Hao a/l Ng,S2025991328,zi.hao.ng@student.gmi.edu.my,Male,2003-03-02,student
+Zarina binti Basir,S2025100072,zarina.basir@student.gmi.edu.my,Female,2007-09-18,student
+Najwa binti Zawawi,S2025944993,najwa.zawawi@student.gmi.edu.my,Female,2003-08-18,student
+Meera a/p Murugan,S2025880246,meera.murugan2@student.gmi.edu.my,Female,2003-08-31,student
+Yasmin binti Hussein,S2025575374,yasmin.hussein@student.gmi.edu.my,Female,2006-01-02,student
+Zulaikha binti Halimi,S2025763113,zulaikha.halimi@student.gmi.edu.my,Female,2005-08-09,student
+Rania binti Majid,S2025894828,rania.majid@student.gmi.edu.my,Female,2005-11-13,student
+Zhi Yang a/l Koh,F2025542218,zhi.yang.koh@staff.gmi.edu.my,Male,1977-01-07,staff
+Pei Wen a/p Lee,S2025045681,pei.wen.lee@student.gmi.edu.my,Female,2003-11-26,student
+Saravanan a/l Rangasamy,S2025186724,saravanan.rangasamy2@student.gmi.edu.my,Male,2006-12-04,student
+Anita a/p Krishnan,S2025463914,anita.krishnan@student.gmi.edu.my,Female,2001-01-21,student
+Lakshmi a/p Murugan,S2025684763,lakshmi.murugan@student.gmi.edu.my,Female,2000-06-12,student
+Deepa a/p Subramaniam,S2025149053,deepa.subramaniam3@student.gmi.edu.my,Female,2000-03-27,student
+Harith bin Jamal,S2025494240,harith.jamal@student.gmi.edu.my,Male,2003-08-17,student
+Meera a/p Muthu,S2025227210,meera.muthu2@student.gmi.edu.my,Female,2002-03-05,student
+Yee Ling a/p Pang,S2025374603,yee.ling.pang2@student.gmi.edu.my,Female,2007-04-18,student
+Faiz bin Ahmad,S2025973662,faiz.ahmad@student.gmi.edu.my,Male,2001-12-27,student
+Ramesh a/l Gopal,S2025930728,ramesh.gopal@student.gmi.edu.my,Male,2000-09-23,student
+Iqbal bin Mahmud,S2025075628,iqbal.mahmud@student.gmi.edu.my,Male,2007-12-23,student
+Mani a/l Venkatesh,S2025271792,mani.venkatesh@student.gmi.edu.my,Male,2000-04-20,student
+Lakshmi a/p Rangasamy,S2025966940,lakshmi.rangasamy2@student.gmi.edu.my,Female,2002-05-15,student
+Umaira binti Aziz,S2025268029,umaira.aziz@student.gmi.edu.my,Female,2001-11-09,student
+Saravanan a/l Rangasamy,S2025622969,saravanan.rangasamy3@student.gmi.edu.my,Male,2007-09-30,student
+Yee Ling a/p Chen,F2025095857,yee.ling.chen@staff.gmi.edu.my,Female,1998-09-17,staff
+Shafiqah binti Jamil,S2025998087,shafiqah.jamil2@student.gmi.edu.my,Female,2000-09-06,student
+Harith bin Jamal,S2025730187,harith.jamal2@student.gmi.edu.my,Male,2006-08-21,student
+Jun Wei a/l Yeo,S2025677684,jun.wei.yeo@student.gmi.edu.my,Male,2006-03-15,student
+Kai Wen a/l Wong,S2025280427,kai.wen.wong@student.gmi.edu.my,Male,2004-12-10,student
+Vijay a/l Balakrishnan,T2025588910,vijay.balakrishnan2@tto.gmi.edu.my,Male,1983-12-24,TTO
+Mani a/l Perumal,S2025950403,mani.perumal6@student.gmi.edu.my,Male,2003-06-01,student
+Anand a/l Rangasamy,S2025948615,anand.rangasamy@student.gmi.edu.my,Male,2006-03-06,student
+Yan Yi a/p Chin,S2025645861,yan.yi.chin2@student.gmi.edu.my,Female,2000-04-30,student
+Sabrina binti Shukri,S2025367841,sabrina.shukri2@student.gmi.edu.my,Female,2001-08-10,student
+Lakshmi a/p Perumal,S2025403848,lakshmi.perumal5@student.gmi.edu.my,Female,2006-09-03,student
+Khadijah binti Basir,S2025603101,khadijah.basir@student.gmi.edu.my,Female,2006-02-02,student
+Anita a/p Venkatesh,S2025986472,anita.venkatesh4@student.gmi.edu.my,Female,2000-06-06,student
+Yu Xuan a/l Tan,S2025493985,yu.xuan.tan@student.gmi.edu.my,Male,2002-07-14,student
+Anusha a/p Balakrishnan,S2025499348,anusha.balakrishnan2@student.gmi.edu.my,Female,2001-05-02,student
+Amir bin Halimi,S2025427184,amir.halimi@student.gmi.edu.my,Male,2004-01-06,student
+Anand a/l Murugan,S2025979346,anand.murugan@student.gmi.edu.my,Male,2001-12-01,student
+Shalini a/p Muthu,S2025565459,shalini.muthu4@student.gmi.edu.my,Female,2000-06-20,student
+Meera a/p Raman,T2025371395,meera.raman@tto.gmi.edu.my,Female,1990-02-11,TTO
+Pei Wen a/p Ng,S2025462316,pei.wen.ng@student.gmi.edu.my,Female,2002-04-22,student
+Jia Yi a/p Chia,S2025519955,jia.yi.chia@student.gmi.edu.my,Female,2007-03-22,student
+Lakshmi a/p Muthu,S2025772050,lakshmi.muthu4@student.gmi.edu.my,Female,2006-05-21,student
+Hui Xin a/p Chai,T2025986513,hui.xin.chai@tto.gmi.edu.my,Female,1977-11-20,TTO
+Jia Hao a/l Yeo,S2025000824,jia.hao.yeo@student.gmi.edu.my,Male,2002-06-29,student
+Kumar a/l Murugan,S2025031040,kumar.murugan3@student.gmi.edu.my,Male,2001-07-10,student
+Zubair bin Zawawi,S2025089760,zubair.zawawi@student.gmi.edu.my,Male,2003-09-22,student
+Qin Yi a/p Tan,S2025429370,qin.yi.tan2@student.gmi.edu.my,Female,2003-02-06,student
+Divya a/p Rangasamy,S2025530255,divya.rangasamy2@student.gmi.edu.my,Female,2002-02-15,student
+Karthik a/l Muthu,S2025990361,karthik.muthu5@student.gmi.edu.my,Male,2004-04-19,student
+Lakshmi a/p Subramaniam,F2025247336,lakshmi.subramaniam@staff.gmi.edu.my,Female,1999-05-12,staff
+Faris bin Zawawi,S2025507835,faris.zawawi@student.gmi.edu.my,Male,2007-10-20,student
+Xue Ting a/p Pang,S2025665210,xue.ting.pang3@student.gmi.edu.my,Female,2005-03-17,student
+Zi Ying a/p Wong,S2025787072,zi.ying.wong@student.gmi.edu.my,Female,2000-06-21,student
+Ramesh a/l Krishnan,S2025084585,ramesh.krishnan2@student.gmi.edu.my,Male,2001-08-21,student
+Talha bin Abdullah,S2025824476,talha.abdullah@student.gmi.edu.my,Male,2007-01-13,student
+Ridwan bin Zaki,S2025555340,ridwan.zaki@student.gmi.edu.my,Male,2005-03-25,student
+Meera a/p Gopal,S2025537302,meera.gopal@student.gmi.edu.my,Female,2001-10-16,student
+Zi Hao a/l Yeo,S2025151331,zi.hao.yeo@student.gmi.edu.my,Male,2003-11-29,student
+Zara binti Rahim,S2025414487,zara.rahim@student.gmi.edu.my,Female,2001-11-15,student
+Mariam binti Osman,S2025736839,mariam.osman@student.gmi.edu.my,Female,2003-05-31,student
+Wei Jian a/l Teh,S2025493746,wei.jian.teh@student.gmi.edu.my,Male,2000-05-21,student
+Yee Ling a/p Koh,S2025109015,yee.ling.koh2@student.gmi.edu.my,Female,2004-05-25,student
+Jun Wei a/l Phang,S2025011879,jun.wei.phang3@student.gmi.edu.my,Male,2003-08-28,student
+Asya a/p Raman,S2025522670,asya.raman4@student.gmi.edu.my,Female,2007-06-26,student
+Divya a/p Muthu,S2025335580,divya.muthu2@student.gmi.edu.my,Female,2001-06-15,student
+Priya a/p Raman,S2025179211,priya.raman4@student.gmi.edu.my,Female,2000-12-13,student
+Jasmine binti Ismail,S2025419644,jasmine.ismail@student.gmi.edu.my,Female,2007-04-13,student
+Khairul bin Sulaiman,S2025044768,khairul.sulaiman@student.gmi.edu.my,Male,2007-07-10,student
+Aisyah binti Rahman,S2025179253,aisyah.rahman@student.gmi.edu.my,Female,2003-12-14,student
+Zhi Yang a/l Tan,S2025764435,zhi.yang.tan@student.gmi.edu.my,Male,2003-06-18,student
+Zi Ying a/p Koh,S2025920080,zi.ying.koh@student.gmi.edu.my,Female,2003-06-22,student
+Suresh a/l Muthu,S2025508700,suresh.muthu@student.gmi.edu.my,Male,2004-03-02,student
+Anita a/p Subramaniam,S2025002742,anita.subramaniam2@student.gmi.edu.my,Female,2003-07-21,student
+Hui Xin a/p Lee,S2025141249,hui.xin.lee2@student.gmi.edu.my,Female,2005-03-16,student
+Liang a/l Lim,S2025625491,liang.lim@student.gmi.edu.my,Male,2007-02-16,student
+Lina binti Omar,S2025320314,lina.omar@student.gmi.edu.my,Female,2006-01-31,student
+Mei Ling a/p Chai,S2025818894,mei.ling.chai2@student.gmi.edu.my,Female,2002-06-04,student
+Syazana binti Zawawi,T2025160719,syazana.zawawi@tto.gmi.edu.my,Female,1978-11-14,TTO
+Safwan bin Fauzi,S2025924682,safwan.fauzi2@student.gmi.edu.my,Male,2002-05-08,student
+Suresh a/l Raman,S2025276870,suresh.raman2@student.gmi.edu.my,Male,2001-05-04,student
+Deepa a/p Muthu,S2025338895,deepa.muthu3@student.gmi.edu.my,Female,2007-11-18,student
+Anita a/p Rangasamy,S2025873749,anita.rangasamy5@student.gmi.edu.my,Female,2007-01-26,student
+Asya a/p Subramaniam,F2025969983,asya.subramaniam@staff.gmi.edu.my,Female,1970-08-03,staff
+Saravanan a/l Rangasamy,T2025622953,saravanan.rangasamy@tto.gmi.edu.my,Male,1988-09-28,TTO
+Arissa binti Hussein,S2025281192,arissa.hussein@student.gmi.edu.my,Female,2002-03-22,student
+Mei Ling a/p Yeo,S2025551952,mei.ling.yeo@student.gmi.edu.my,Female,2000-07-30,student
+Zhi Yang a/l Chin,S2025098521,zhi.yang.chin2@student.gmi.edu.my,Male,2001-08-27,student
+Vijay a/l Subramaniam,T2025560025,vijay.subramaniam@tto.gmi.edu.my,Male,1980-10-05,TTO
+Nurul binti Kassim,S2025264583,nurul.kassim@student.gmi.edu.my,Female,2001-02-13,student
+Anand a/l Subramaniam,S2025783085,anand.subramaniam@student.gmi.edu.my,Male,2005-09-21,student
+Wei Han a/l Teh,S2025407376,wei.han.teh2@student.gmi.edu.my,Male,2007-06-27,student
+Kumar a/l Venkatesh,S2025133569,kumar.venkatesh2@student.gmi.edu.my,Male,2007-04-17,student
+Jun Wei a/l Pang,S2025766249,jun.wei.pang2@student.gmi.edu.my,Male,2000-02-29,student
+Liang a/l Chen,F2025607341,liang.chen@staff.gmi.edu.my,Male,1987-01-28,staff
+Ai Ling a/p Ng,S2025682654,ai.ling.ng2@student.gmi.edu.my,Female,2006-04-23,student
+Yusuf bin Mansor,S2025730995,yusuf.mansor@student.gmi.edu.my,Male,2001-11-11,student
+Hui Xin a/p Chia,S2025963140,hui.xin.chia2@student.gmi.edu.my,Female,2003-03-18,student
+Jia Yi a/p Wong,T2025050921,jia.yi.wong@tto.gmi.edu.my,Female,1980-07-17,TTO
+Shalini a/p Rangasamy,S2025301182,shalini.rangasamy3@student.gmi.edu.my,Female,2006-11-17,student
+Ridwan bin Nasir,S2025531228,ridwan.nasir@student.gmi.edu.my,Male,2001-05-16,student
+Jia Yi a/p Pang,F2025398278,jia.yi.pang@staff.gmi.edu.my,Female,1992-06-17,staff
+Kai Wen a/l Chia,T2025939142,kai.wen.chia@tto.gmi.edu.my,Male,1977-11-19,TTO
+Murali a/l Gopal,S2025890211,murali.gopal3@student.gmi.edu.my,Male,2001-07-22,student
+Hui Xin a/p Pang,S2025928982,hui.xin.pang2@student.gmi.edu.my,Female,2001-02-13,student
+Yasmin binti Ridzuan,S2025577520,yasmin.ridzuan@student.gmi.edu.my,Female,2004-05-01,student
+Xin Yi a/p Lee,S2025610831,xin.yi.lee@student.gmi.edu.my,Female,2003-11-05,student
+Anand a/l Balakrishnan,S2025608280,anand.balakrishnan2@student.gmi.edu.my,Male,2000-06-01,student
+Jasmine binti Rahim,S2025906001,jasmine.rahim@student.gmi.edu.my,Female,2003-08-15,student
+Nalini a/p Krishnan,S2025498511,nalini.krishnan2@student.gmi.edu.my,Female,2001-04-05,student
+Mei Ling a/p Tan,S2025060180,mei.ling.tan@student.gmi.edu.my,Female,2000-01-12,student
+Hana binti Rahim,S2025958487,hana.rahim@student.gmi.edu.my,Female,2006-06-09,student
+Faiz bin Yaacob,S2025770080,faiz.yaacob@student.gmi.edu.my,Male,2005-05-10,student
+Wei Han a/l Liew,S2025953347,wei.han.liew@student.gmi.edu.my,Male,2004-04-06,student
+Hao a/l Low,S2025745760,hao.low@student.gmi.edu.my,Male,2003-04-13,student
