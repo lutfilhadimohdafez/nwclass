@@ -28,13 +28,53 @@ while file_error_int < 3:
 if file_error_int ==3:
     print("Too many wrong filename. Exiting..")
     exit()
+
 # Defining functions
+
+# maleList() function , to read the male list names
 def maleList():
     print("List of Male Students")
-    male_Lines = fileHandler.readlines()
-    print(male_Lines)
+    # Establih list of male students
+    maleLines = []
+    counter = 1
+    # Looping to readline
+    for line in fileHandler:
+        line = line.rstrip()
+        splitted_line = line.split(',')
+        # 10/15/2025 : Urh tak lutfil kalau tak bagi complicated lagi -Lutfil
+        if 'student' in splitted_line:
+            name_sub_split = splitted_line[0].split()
+            if 'bin' in name_sub_split or 'a/l' in name_sub_split:
+                # Uncomment below to enable sub processing
+                #maleLines.append(splitted_line)
+
+                # Uncomment below to add line to list
+                #maleLines.append(line)
+                
+                # Uncoment below to debug list
+                #print(maleLines)
+
+                print(counter,line)
+                counter += 1
+    #count = 1
+    #print(maleLines)
+    #for maleStudents in maleLines:
+     #   print(f"{count}. {maleStudents}")
+      #  count+=1
+    #male_Lines = fileHandler.read()
+    #print(male_Lines)
     #for lines in male_Lines:
      #   print(lines)
+
+# exit function
+def progExit():
+    print("Confirm exit ?(Y/n):")
+    userExitChoice= str(input())
+    if userExitChoice != 'Y':
+        return 'y'
+    else:
+        return 'n'
+
 
 # Looping for menu
 menu_options = 'y'
@@ -56,8 +96,13 @@ while menu_options == 'y':
     elif menu_choice == 4:
         print("4")
     elif menu_choice == 5:
-        print("exit")
+        print("To the exit menu..")
+        menu_options = progExit()
+
     else:
         print("wrong input")
+
+# Jap nak kena buat function dekat atas
+
 
 
