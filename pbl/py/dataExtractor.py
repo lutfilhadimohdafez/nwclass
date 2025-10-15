@@ -18,8 +18,8 @@ file_error_int = 0
 while file_error_int < 3:
     try:
         filename =str(input("Please enter file name:"))
-        fileHandler= open(filename,"r+")
-        break
+        with open(filename,"r+") as fileHandler:
+            break
     except:
         print("File name error. Try again."+str(file_error_int+1)+"/3")
         file_error_int = file_error_int + 1
@@ -66,6 +66,48 @@ def maleList():
     #for lines in male_Lines:
      #   print(lines)
 
+# Female list function
+def femaleList():
+    counter = 1
+    print("Female List")
+    for line in fileHandler:
+        line = line.rstrip()
+        split_line = line.split(',')
+        if 'student' in split_line:
+            sub_name_split = split_line[0].split()
+            if 'binti' in sub_name_split or 'a/p' in sub_name_split:
+                print(counter,line)
+                counter +=1
+
+# Total number of students and TT
+def numStuTTO():
+    counter = 1
+    totalNo = {}
+    for line in fileHandler:
+        line = line.rstrip()
+        stripped_line = line.split(',')
+        #print(stripped_line[-1])
+        if 'role' in stripped_line[-1]:
+            continue
+        elif stripped_line[-1] not in totalNo:
+            totalNo[stripped_line[-1]]= 1
+        else:
+            totalNo[stripped_line[-1]]= totalNo[stripped_line[-1]] + 1
+    for key,val in totalNo.items():
+        print(f"{key}\t: {val}")
+            
+        
+# List for students email address
+def emailList():
+    print("==== Students Email Addresses ====")
+    for line in fileHandler:
+        line = line.rstrip()
+        #stripped_line = line.split(',')
+        if '@student.gmi.edu.my' in line:
+            splittedLine = line.split(',')
+            print(splittedLine[2])
+
+
 # exit function
 def progExit():
     print("Confirm exit ?(Y/n):")
@@ -75,7 +117,9 @@ def progExit():
     else:
         return 'n'
 
-
+# Since pecah kepala nak loop due to filehandling ,I am proposing to do
+# function for below
+# so it will run via the with open() block
 # Looping for menu
 menu_options = 'y'
 while menu_options == 'y':
@@ -87,14 +131,17 @@ while menu_options == 'y':
     print("5. Exit")
     menu_choice = int(input("Please enter choice:"))
     if menu_choice == 1:
-        print("1")
+        print("==== Male List ====")
         maleList()
     elif menu_choice == 2:
-        print("2")
+        print("==== Female List ====")
+        femaleList()
     elif menu_choice == 3:
-        print("3")
+        print("==== Total number of Students and TTO ====")
+        numStuTTO()
     elif menu_choice == 4:
-        print("4")
+        print("==== Students Email List ====")
+        emailList()
     elif menu_choice == 5:
         print("To the exit menu..")
         menu_options = progExit()
