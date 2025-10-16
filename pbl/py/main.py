@@ -1,6 +1,7 @@
 from medieval import MedievalMarket
 from cgpacalculator import CGPACalculator
 from namemanipulation import NameManipulation
+from dataExtractor import DataExtractor
 
 while True:
     print("===========Welcome to Wong Corpo.============")
@@ -19,7 +20,7 @@ while True:
         elif InputMain == 2:
             NameManipulation()
         elif InputMain == 3:
-            print("Lutfil")
+            DataExtractor()
         elif InputMain == 4:
             MedievalMarket()
     except:
