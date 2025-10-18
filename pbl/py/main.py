@@ -12,6 +12,7 @@ while True:
     print("2. Name Manipulation")
     print("3. Data Extractor")
     print("4. Medieval Market")
+    print("5. Exit")
     print("")
     InputMain = int(input("Type number to navigate: "))
     try:
@@ -23,6 +24,8 @@ while True:
             DataExtractor()
         elif InputMain == 4:
             MedievalMarket()
+        elif InputMain == 5:
+            break
     except:
         print("Wrong Input!")
 
