@@ -1,39 +1,61 @@
-# Program to put new name included with erorr handling and list number recognition
+# Program to put new name included with error handling and list number recognition
 
+# Function to get the next list number by reading an existing list of lines
+def get_next_number(lines):
+    if not lines:
+        return 1
+    
+    last_line = lines[-1].strip()
+    try:
+        # Assumes the format is "Number) Name"
+        current_number_str = last_line.split(')')[0]
+        current_number = int(current_number_str)
+        return current_number + 1
+    except (IndexError, ValueError):
+        return 1
 
+# Error Handling and Initial File Reading
+fileName = "namelist.txt"
+inputerrnum = 0
+file_lines = []
+fileHandler = None
 
-# Defining functions to check for the numbers
-def checklastline(filehandlername):
-    for line in filehandlername:
-        pass
-    last_line = line
-    return last_line
-
-
-# Error Handling
-inputerrnum= 0
 while inputerrnum < 3:
     try:
-        fileName = "namelist.txt"
-        #fileName = str(input("Please enter file name : "))
-        fileHandler = open(fileName,"a+")
+        # Open in 'r' mode to read all existing content first
+        with open(fileName, "r") as f_read:
+            file_lines = f_read.readlines()
+        
+        # Get the starting number for the new entries
+        starting_number = get_next_number(file_lines)
+        
+        # Now open in 'a' (append) mode for writing
+        fileHandler = open(fileName, "a")
         break
-    except:
-        print("Input error! ")
+    except FileNotFoundError:
+        # If the file doesn't exist, start number is 1. Open in 'w' (write) mode to create it.
+        starting_number = 1
+        fileHandler = open(fileName, "w")
+        break
+    except Exception:
         inputerrnum += 1
-    else:
-        print("Too many wrongs. Exiting.. ")
-        exit()
+else:
+    print("Too many wrongs. Exiting.. ")
+    exit()
 
 # Looping for input
 userAddmore = "Y"
-while userAddmore == "Y":
-    new_name = str(input("Enter new name: "))
-    namesNumber = fileHandler.readline()
-    print(namesNumber)
-    lastline = checklastline(fileHandler)
-    print(last_line)
-    fileHandler.write(namesNumber+"\051" + new_name + "\n")
-    userAddmore = str(input("Do you want to continue?(Y/n) : "))
-#close
-fileHandler.close()
+current_number = starting_number
+while userAddmore.upper() == "Y":
+    new_name = input("Enter new name: ")
+    
+    # Write the new line to the file
+    line_to_write = f"{current_number})\t{new_name}\n"
+    fileHandler.write(line_to_write)
+    
+    current_number += 1
+    userAddmore = input("Do you want to continue?(Y/n) : ").strip()
+
+# Close the file
+if fileHandler:
+    fileHandler.close()
