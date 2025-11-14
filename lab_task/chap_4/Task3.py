@@ -30,14 +30,27 @@ def operator_exec(operator,*numbers_to_use):
 def Add(*args):
     return sum(*args)
 def Minus(*args):
-    total = args[0]
-    print(total)
-    return total
+    totalMinus = 0
+    numberArray = args[0]
+    for number in numberArray:
+        totalMinus = totalMinus-number
+        print(totalMinus)
+    return totalMinus
 def Multiply(*args):
-    total = args[0]
-    for i in args:
-        i *=total
-    return total
+    cart = 1
+    totalMultiply = args[0]
+    for number in totalMultiply:
+        cart = number * cart
+    return cart
+
+def Divide(*args):
+    totalDivide = args[0]
+    result = args[0][0]
+    for number in totalDivide[1:]:
+        result = result/number
+        print(result)
+    return result
+        
 
 
 # Main function below
